@@ -90,7 +90,7 @@ public class sTimeFragment extends Fragment {
                         break;
 
                     case 10:
-                        sTimeBody.setTextAlignment(View.TEXT_ALIGNMENT_TEXT_START);
+                        sTimeBody.setTextAlignment(View.TEXT_ALIGNMENT_CENTER);
                         sTimeBody.setText(getResources().getString(R.string.godsPromise));
                         break;
 
