@@ -1,0 +1,483 @@
+<resources>
+    <string name="app_name">Outdoor Odyssey</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string-array name="philosophyList">
+
+        <item>31 Flavors</item>
+        <item>5,4,3,2,1</item>
+        <item>Chief Bedohave</item>
+        <item>D + A = R</item>
+        <item>Emotional Bank Account</item>
+        <item>Eyeball Level Leadership</item>
+        <item>Iceberg Theory</item>
+        <item>MEPS</item>
+        <item>Microwave Mentality</item>
+        <item>Mr. Potato Head</item>
+        <item>Teach,Learn,Smile</item>
+        <item>The Wizard</item>
+
+    </string-array>
+
+    <string name="flavors31">This is the text body for 31 Flavors.\n</string>
+    <string name="most54321">This is the text body for 54321.</string>
+    <string name="bedohave">This is the text body for Chief Bedohave.</string>
+    <string name="DAR">This is the text body for D + A = R.</string>
+    <string name="EBA">This is the text body for EBA.</string>
+    <string name="eyeballLevel">This is the text body for Eyeball Level Leadership.</string>
+    <string name="iceberg">This is the text body for Iceberg Theory.</string>
+    <string name="MEPS">This is the text body for MEPS.</string>
+    <string name="microwave">This is the text body for 31 Flavors.</string>
+    <string name="potatoHead">This is the text body for Mr. Potato Head.</string>
+    <string name="TLS">This is the text body for TLS.</string>
+    <string name="wizard">This is the text body for The Wizard.</string>
+
+    <string-array name="sTimeList">
+
+        <item>A Creed to Live By</item>
+        <item>A Wish For Leaders</item>
+        <item>Anyway</item>
+        <item>Attitude</item>
+        <item>Bird by Bird</item>
+        <item>Conversations With God</item>
+        <item>Desiderata</item>
+        <item>Don\'t We All?</item>
+        <item>Faith, Trust, and Love Equals Devotion</item>
+        <item>Footprints</item>
+        <item>God\'s Promise</item>
+        <item>How to Make a Beautiful Life</item>
+        <item>If</item>
+        <item>If Ever There Was a Time</item>
+        <item>If I Were Any Better, I Would Be Twins</item>
+        <item>Just to Keep You Going</item>
+        <item>Lincoln\'s "Failures"</item>
+        <item>Little Eyes Are Watching You (Boy)</item>
+        <item>Little Eyes Are Watching You (Girl)</item>
+        <item>Live Your Dash</item>
+        <item>Mayonnaise Jar and Two Cups of Coffee</item>
+        <item>My Pledge</item>
+        <item>Paid in Full</item>
+        <item>Quotes</item>
+        <item>Remember</item>
+        <item>Spreading Your Light: How You Affect Others Daily</item>
+        <item>Striving</item>
+        <item>Success (Emerson)</item>
+        <item>Success (Unknown)</item>
+        <item>The Bridge Builder</item>
+        <item>The Carrot, The Egg, and The Coffee Bean</item>
+        <item>The Emperor\'s Seed</item>
+        <item>The Generals Poem (Winner\'s Creed)</item>
+        <item>The Man In The Arena</item>
+        <item>The Man in the Glass</item>
+        <item>The Optimist Creed</item>
+        <item>The Paradox of Our Age</item>
+        <item>The Prayer of a Sportsman</item>
+        <item>The Road Not Taken</item>
+        <item>The Sheepdog\'s Poem</item>
+        <item>The Starfish Story</item>
+        <item>This Is The Beginning of a New Day</item>
+        <item>To Risk</item>
+        <item>Universal Prayer</item>
+        <item>Untitled</item>
+        <item>Vigil</item>
+        <item>We Shall Be Free</item>
+
+    </string-array>
+
+    <string name="aCreed">
+
+        A Creed To Live By\n
+        Nancye Sims\n\n
+        Don\'t undermine your worth by comparing yourself with others.\n\n
+        It is because we are different that each of us are special. Don\'t set your goals by what other people deem important. Only do what is best for you.\n\n
+        Don\'t take for granted the things closest to your heart. Cling to them as you would your life, for without them life is meaningless.\n\n
+        Don\'t let life slip through your fingers by living in the past or in the future. By living one day at a time you live all days of your life.\n\n
+        Don\'t give up when you still have something to give. Nothing is really over until the moment you stop trying.\n\n
+        Don\'t be afraid to admit that you are less than perfect. It is the fragile thread that binds us to each other.\n\n
+        Don\'t be afraid to encounter risks. It is by taking chances that we learn how to be brave.\n\n
+        Don\'t shut love out of your life by saying it is impossible. The fastest way to lose love is to hold to it tightly, and the best way to keep love is to give it wings.\n\n
+        Don\'t dismiss your dreams. To be without dreams is to be without hope, to be without hope is to be without purpose.\n\n
+        Don\'t run through life so fast that you forget not only where you have been, but also where you are going. Life is not a race, but a journey to be savoured each step of the way.\n\n
+
+    </string>
+    <string name="aWish">
+
+        A Wish for Leaders\n
+        Earl Reum\n\n
+        I sincerely wish you will have the experience of thinking up a new idea, planning it, organizing it, and following it to completion, and then having it be magnificently successful. I also hope you’ll go through the same process and have some-thing “bomb-out.”\n\n
+        I wish you could know how it feels “to run” with all your heart and lose – horribly.\n\n
+        I wish that you could achieve some great good for mankind, but have nobody know about it except for you.\n\n
+        I wish you could find something so worthwhile that you deem it worthy of investing your life.\n\n
+        I hope you become frustrated and challenged enough to begin to push back the very barriers of your own personal limitations.\n\n
+        I hope you make a stupid, unethical mistakes and get caught redhanded and are big enough to say those magic words “I was Wrong.”\n\n
+        I hope you give so much of yourself that some days you wonder if it’s worth it all.\n\n
+        I wish for you a magnificent obsession that will give you reason for living and purpose and direction and élan and life.\n\n
+        I wish for you the worst kind of criticism for everything you do, because that makes you fight to achieve beyond what you normally would.\n\n
+        I wish for you the experience of leadership.\n\n
+
+    </string>
+    <string name="anyway">
+
+        Anyway\n
+        by Dr. Kent M. Keith\n\n
+        People are illogical, unreasonable, and self-centered.\n
+        Love them anyway.\n\n
+        If you do good, people will accuse you of selfish ulterior motives.\n
+        Do good anyway.\n\n
+        If you are successful, you will win false friends and true enemies.\n
+        Succeed anyway.\n\n
+        The good you do today will be forgotten tomorrow.\n
+        Do good anyway.\n\n
+        Honesty and frankness make you vulnerable.\n
+        Be honest and frank anyway.\n\n
+        The biggest men and women with the biggest ideas can be shot down by the smallest men and women with the smallest minds.\n
+        Think big anyway.\n\n
+        People favor underdogs but follow only top dogs.\n
+        Fight for a few underdogs anyway.\n\n
+        What you spend years building may be destroyed overnight.\n
+        Build anyway.\n\n
+        People really need help but may attack you if you do help them.\n
+        Help people anyway.\n\n
+        Give the world the best you have and you\'ll get kicked in the teeth.\n
+        Give the world the best you have anyway.\n\n
+
+    </string>
+    <string name="attitude">
+
+        Attitude\n
+        Charles Swindoll\n\n
+        The longer I live, the more I realize the impact of attitude on life.\n\n
+        Attitude, to me, is more important than facts. It is more important than the past, than education, than money, than circumstances, than failures, than successes, than what other people think or say or do. It is more important than appearance, giftedness or skill. It will make or break a company... a church... a home.\n\n
+        The remarkable thing is we have a choice every day regarding the attitude we will embrace for that day. We cannot change our past... we cannot change the fact that people will act in a certain way. We cannot change the inevitable. The only thing we can do is play on the one string we have, and that is our attitude... I am convinced that life is 10% what happens to me and 90% how I react to it.\n\n
+        And so it is with you... we are in charge of our attitudes.\n\n
+
+    </string>
+    <string name="birdByBird">
+
+        Bird by Bird\n
+        Anne Lamott\n\n
+        Thirty years ago my older brother, who was ten years old at the time, was trying to get a report on birds written that he\'d had three months to write. It was due the next day. We were out at our family cabin in Bolinas, and he was at the kitchen table close to tears, surrounded by binder paper and pencils and unopened books on birds, immobilized by the hugeness of the task ahead. Then my father sat down beside him, put his arm around my brother\'s shoulder, and said, \'Bird by bird, buddy. Just take it bird by bird.\'\n\n
+
+    </string>
+    <string name="conversations">
+
+        Excerpt from Conversations with God\n
+        Neale Donald Walsh\n\n
+        Fear is the energy which contracts, closes down, draws in, runs, hides, hordes, harms. Love is the energy which expands, opens up, sends out, stays, reveals, shares, heals. Fear wraps our bodies in clothing, love allows us to stand naked. Fear clings to and clutches all that we have, love gives all that we have away. Fear holds, close, love holds dear, fear grasps, love lets go. Fear rankles, love soothes, fear attacks, love amends.\n\n
+        Perfect love is to feeling what perfect white is to color. Many think that white is the absence of color. It is not. It is the inclusion of all color. So, too, is love not the absence of emotion (hatred, anger, lust, jealousy, covetousness), but the summation of all feeling. It is the sum total, the everything.\n\n
+        Harnessing your thoughts, exercising control over them is not as difficult as it might seem. It is all a matter of discipline. A question of intent. The first step is learning to monitor your thoughts; to think about what you are thinking about. When you catch yourself thinking negative thoughts - thoughts that negate your highest idea about a thing - think again! Do this literally. If you think you\'re in a doldrum, in a pickle, and no good can come this, think again. You can train yourself to do this. (Look how well you\'ve trained yourself not to do it!)\n\n
+        A true Master is not the one with the most students, but who creates the most Masters. A true leader is not the one with the most followers, but the one who creates the most leaders.\n\n
+
+    </string>
+    <string name="desiderata">
+
+        Max Ehrmann\n
+        Desiderata\n\n
+        Go placidly amid the noise and haste,\n
+        and remember what peace there may be in silence.\n\n
+        As far as possible without surrender\n
+        be on good terms with all persons.\n
+        Speak your truth quietly and clearly;\n
+        and listen to others,\n
+        even the dull and the ignorant;\n
+        they too have their story.\n
+        Avoid loud and aggressive persons,\n
+        they are vexations to the spirit.\n\n
+        If you compare yourself with others,\n
+        you may become vain and bitter;\n
+        for always there will be greater and lesser persons than yourself.\n\n
+        Enjoy your achievements as well as your plans.\n
+        Keep interested in your own career, however humble;\n
+        it is a real possession in the changing fortunes of time.\n
+        Exercise caution in your business affairs;\n
+        for the world is full of trickery.\n
+        But let this not blind you to what virtue there is;\n
+        many persons strive for high ideals;\n
+        and everywhere life is full of heroism.\n\n
+        Be yourself.\n
+        Especially, do not feign affection.\n\n
+        Neither be cynical about love;\n
+        for in the face of all aridity and disenchantment\n
+        it is as perennial as the grass.\n\n
+        Take kindly the counsel of the years,\n
+        gracefully surrendering the things of youth.\n
+        Nurture strength of spirit to shield you in sudden misfortune.\n
+        But do not distress yourself with dark imaginings.\n
+        Many fears are born of fatigue and loneliness.\n\n
+        Beyond a wholesome discipline,\n
+        be gentle with yourself.\n
+        You are a child of the universe,\n
+        no less than the trees and the stars;\n
+        you have a right to be here.\n
+        And whether or not it is clear to you,\n
+        no doubt the universe is unfolding as it should.\n\n
+        Therefore be at peace with God,\n
+        whatever you conceive Him to be,\n
+        and whatever your labors and aspirations,\n
+        in the noisy confusion of life keep peace with your soul.\n\n
+        With all its sham, drudgery, and broken dreams,\n
+        it is still a beautiful world.\n
+        Be cheerful.\n
+        Strive to be happy.\n\n
+
+    </string>
+    <string name="dontWeAll">
+
+        Don’t We All?\n\n\
+        I was parked in front of the mall wiping off my car. I had just come from the car wash and was waiting for my wife to get out of work. Coming my way from across the parking lot was what society would consider a bum.\n\n\
+        From the looks of him, he had no car, no home, no clean clothes, and no money. There are times when you feel generous, but there are other times that you just don’t want to be bothered. This was one of those “don’t want to be bothered time.”\n\n\n
+        “I hope he doesn’t ask me for any money,” I thought. He didn\’t.\n\n\n
+        He came and sat on the curb in front of the bus stop, but he didn\’t look like he could have enough money to even ride the bus. After a few minutes he spoke. “That’s a very pretty car,” he said. He was ragged, but he had an air of dignity around him. His scraggy blond beard kept more than his face warm. I said, “Thanks,” and continued wiping of my car.\n\n\n
+        He sat there quietly as I worked. The expected plea for money never came. As the silence between us widened something inside said, “Ask him if he needs help.” I was sure he would say “yes”, but I held true to the inner voice. “Do you need any help?” I asked. He answered in three simple, but profound words that I shall never forget.\n\n\n
+        We often look for wisdom in great men and women. We expect it from those of higher learning and accomplishments. I expected nothing, but an outstretched grimy hand. He spoke the three words that shook me. “Don’t we all?” he said.\n\n\n
+        I was feeling high and mighty, successful and important, above a bum in the street, until those three words hit me like a twelve gauge shotgun.\n\n\n
+        Don’t we all?\n\n\n
+        I needed help. Maybe not for bus fare or a place to sleep, but I needed help. I reached in my wallet and gave him not only enough for bus fare, but enough to get a warm mean and shelter for the day. Those three little words still ring true. No matter how much you have, no matter how much you have accomplished, you need help, too. No matter how little you have, no matter how loaded you are with problems, even without money or a place to sleep, you can give help.\n\n\n
+        Even if it’s just a compliment, you can give that. You never know when you may see that appears to have it all. They are waiting on you to give them what they don’t have. A different perspective on life, a glimpse at something beautiful, a respite from daily chaos, that only you through a torn world can see.\n\n\n
+
+    </string>
+    <string name="faithTrustLove">
+
+        Faith, Trust, and Love Equals Devotion\n\n\
+        *Faith is a higher being. Faith is one’s self,\n\
+        faith in the mission. Faith is what gives you hope.\n\n\
+        +\n\n\
+        *Trust in others. Trust is built between each other and \n\
+        is an ongoing process. We must give trust, but\n\
+        not blindly; it must have a dash of common sense\n\
+        mixed in. Trust gives way to love.\n\n\
+                +\n\n\
+        *Love is essential. Love is like the air; we need it\n\
+        to live. Love so powerful is when you put someone\n\
+        or something before yourself and your only desire\n\
+        is to care for them and keep them safe.\n\n\
+                =\n\n\
+        *When and only when you have all three can you have\n\
+        devotion. Devotion to a cause, to a mission, to a\n\
+        purpose, to a goal or a dream. Devotion is\n\
+        passion. Devotion can hold a team together, carry\n\
+        you through a difficult time and help you weather\n\
+        a storm. Devotion in something you believe in\n\
+        builds character within yourself.\n\n\
+
+    </string>
+    <string name="footprints">
+
+ 	Footprints\n\
+ 	Margaret Fishback Powers\n\n\
+
+	I was walking along the beach with my Lord.\n\
+	Across the dark sky flashed scenes from my life.\n\
+	For each scene, I noticed two sets\n\
+	of footprints in the sand,\n\
+	one belonging to me\n\
+	and one to my Lord.\n\n\
+
+	When the last scene of my life shot before me\n\
+	I looked back at the footprints in the sand.\n\
+	There was only one set of footprints.\n\
+	I realized that this was at the lowest\n\
+	and the saddest times of my life.\n\
+	This always bothered me\n\
+	and I questioned the Lord\n\
+	about my dilemma.\n\n\
+
+	“Lord, you told me when I decided to follow You,\n\
+	You would walk and talk with me all the way.\n\
+	But I’m aware that during the most troublesome\n\
+	times of my life there is only one set of footprints.\n\
+	I just don’t understand why, when I needed You most,\n\
+	You leave me.”\n\n\
+
+	He  whispered, “My precious child,\n\
+	I love you and will never leave you\n\
+	never, ever, during your trials and testings.\n\
+	When you saw only one set of footprints\n\
+	it was then that I carried you.\n\n\
+
+ </string>
+    <string name="godsPromise">
+
+    God’s Promise\n\n\
+
+	God didn’t promise days without pain,\n\
+	Laughter without sorrow, or sun without rain.\n\n\
+
+	But, He did promise strength for the day,\n\
+	Comfort for the tears, and light for the way.\n\n\
+
+	And for those who believe in His kingdom of love,\n\
+	He answers their faith\n\
+	With His peace from above\n\n\
+
+    </string>
+    <string name="howToMake">
+
+    How to Make a Beautiful Life\n\n\
+
+	Love yourself\n\
+	Make peace with who you are\n\
+	And where you are at this moment.\n\n\
+
+	Listen to you heart.\n\
+	IF you can’t hear what it’s saying,\n\
+	In this noisy world, make time for yourself.\n\
+
+	Enjoy your company.\n\
+	Let your mind wander among the stars.\n\n\
+
+	Try. Take chances. Makes Mistakes.\n\n\
+
+	Life can be messy and confusing at times,\n\
+	But, it’s also full of surprises.\n\
+	The next rock in your path might be a stepping stone.\n\n\
+
+	Be happy.\n\
+	When you don’t have what you want, want what you have.\n\
+	Make do.\n\
+	That’s a well-kept secret of contentment.\n\n\
+
+	There aren’t any shortcuts to tomorrow.\n\
+	You have to make your own way.\n\
+	To know where you’re going is only part of it.\n\
+	You need to know where you’ve been too.\n\
+	And if you ever get lost, don’t worry.\n\
+	The people who love you will find you.\n\
+	Count on it.\n\n\
+
+	Life isn’t days and years.\n\
+	It’s what we do the time\n\
+	And all the goodness and grace that’s inside of you.\n\
+	Make a beautiful life…\n\
+	The kind of life you deserve.\n\n\
+
+    </string>
+    <string name="ifPoem">
+
+    If\n\
+    Rudyard Kipling\n\n\
+
+	If you can keep your head when all about you\n\
+	Are losing theirs and blaming it on you;\n\
+	If you can trust yourself when all men doubt you,\n\
+	But make allowance for their doubting too;\n\
+	If you can wait and not be tired by waiting,\n\
+	Or, being lied about, don’t deal in lies,\n\
+	Or, being hated, don’t give way to hating,\n\
+	And yet don’t look too good, not talk too wise;\n\n\
+
+	If you can dream – and not make dreams your master;\n\
+	If you can think – and not make thoughts your aim;\n\
+	If you can meet with triumph and disaster\n\
+	And treat those two imposters just the same;\n\
+	If you can bear to hear the truth you’ve spoken\n\
+	Twisted by knaves to make a trap for fools,\n\
+	Or watch the things you gave your life to broken,\n\
+	And stoop and build ‘em up with wornout tools;\n\n\
+
+	If you can make one heap of all your winnings\n\
+	And risk it on one turn of pitch-and-toss,\n\
+	And lose, and start again at your beginnings\n\
+	And never breath a word about your loss;\n\
+	If you can force your heart and nerve and sinew\n\
+	To serve your turn long after they are gone,\n\
+	And so hold on when there is nothing in you\n\
+	Except the Will which says to them: “Hold on”;\n\n\
+
+	If you can talk with crowds and keep your virtue,\n\
+	Or walk with kings – nor lose the common touch;\n\
+	If neither foes nor loving friends can hurt you;\n\
+	If all men count with you, but none too much;\n\
+	If you can fill the unforgiving minute\n\
+	With sixty seconds’ worth of distance run –\n\
+	Yours is the Earth and everything that’s in it,\n\
+	And – which is more – you’ll be a Man my son!\n\n\
+
+    </string>
+    <string name="ifEverThereWas">
+
+    	If Ever There Was A Time\n\n\
+		If ever there was a time to dare, to make a difference, to embark on something worth doing, it is now. Not for any grand cause, necessarily--but fro something that tugs at your heart, something that’s your aspiration, something that’s your dream. You owe it to yourself to make your days here count. Have fun. Dig deep. Stretch. Dream big. Know, though, that things worth doing seldom come easy.\n\n\
+		There will be good days. And there will be bad days. There will be times when you want to turn around, pack it up, and call it quits. Those times tell you that you are pushing yourself, that you are not afraid to learn by trying.\n\n\
+		Persist.\n\n\
+		Because with an idea, determination, and the right tools, you can do great things. Let your instincts, your intellect, and your heart guide you.\n\n\
+		Trust.\n\n\
+		Believe in the incredible power of the human mind. Of doing something that makes a difference. Of working hard. Of laughing and hoping. Of lazy afternoons. Of lasting friends. Of all the things that will cross your path this year. The start of something new brings the hope of something great. Anything is possible. There is only one you. And you will pass this way only once.\n\n\
+		Do it right.\n\n\
+
+    </string>
+    <string name="ifIWereAnyBetter">
+
+    If I Were Any Better, I would Be Twins\n\n\
+	Michael is the kind of guy you love to hate. He is always in a good mood and always has something positive to say.\n\
+	When someone would ask him how he was doing, he would reply, “If I were any better, I would be twins!”\n\
+	He was a natural motivator.\n\
+	If an employee was having a bad day, Michael was there telling the employee how to look on the positive side of the situation.\n\
+	Seeing this style really made me curious, so one day I wenet up to Michael and asked him, “I don’t get it! YOU can’t be a positive person all of the time. How do you do it?”\n\
+	Michael replied, “Each morning I wake up and say to myself, you have two choices today.\n\
+	You can choose to be in a good mood or …you can choose to be in a bad mood. I choose to be in a good mood.\n\
+	Each time something bad happens, I can choose to be a victim or… I can choose to learn from it. I choose to learn from it.\n\
+	Every time someone comes to me complaining, I can choose to accept their complaining or…I can point out the positive side of life. I choose the positive side of life.\n\
+	“Yeah, right, it’s not that easy,” I protested.\n\
+	“Yes, it is,” Michael said. “Life is all about choices. When you cut away all the junk, every situation is a choice. You choose how you react to situations. You choose how people affect your mood. You choose to be in a good mood or bad mood. The bottom line: It’s your choice how you live you life.”\n\
+	I reflected on what Michael said. Soon hereafter, I left the Tower Industry to start my own business. We lost touch, but I often thought about him when I made a choice about life instead of reacting to it.\n\
+	Several years later, I heard that Michael was involved in a serious accident, falling some 60 feet from a communications tower.\n\
+	After 18 hours of surgery and weeks of intensive care, Michael was released from the hospital with rods placed in his back.\n\
+	I saw Michael about six months after the accident. When I asked him how he was, he replied, “If I were any better, I’d be twins. Wanna see my scars?”\n\
+	I declined to see his wounds, but I did ask him what had gone through his mind as the accident took place.\n\
+	“The first thing that went through my mind was the well-being of my soon to be born daughter,” Michael replied. “Then, as I lay on the ground, I remembered that I had two choices: I could choose to live or…I could choose to die. I chose to live.”\n\
+	“Weren’t you scared? Did you lose consciousness?” I asked.\n\
+	Michael continued, “…the paramedics were great. They kept telling me I was going to be fine. But when they wheeled me into the ER and I saw the expressions on the faces of the doctors and nurses, I got really scared. IN their eyes, I read “he’s a dead man”. I knew I needed to take action.”\n\
+	“What did you do?” I asked.\n\
+	“Well, there was a big burly nurse shouting questions at me,” said Michael. “She asked if I was allergic to anything.\n\
+	““Yes, I replied.” The doctors and nurses stopped working as they waited for my reply. I took a deep breath and yelled, “Gravity.””\n\
+	Over their laughter, I told them, “I am choosing to live. Operate on me as if I am alive, not dead.”\n\
+	Michael lived, thanks to the skills of his doctors, but also because of his amazing attitude. I learned from him that every day we have the choice to live fully.\n\
+	Attitude, after all, is everything.\n\n\
+
+    </string>
+    <string name="justToKeepYouGoing">This is the text body for Just to Keep You Going.</string>
+    <string name="lincolnsFailures">This is the text body for Lincoln\'s "Failures".</string>
+    <string name="littleEyesBoy">This is the text body for Little Eyes Are Watching You (Boy).</string>
+    <string name="littleEyesGirl">This is the text body for Little Eyes Are Watching You (Girl).</string>
+    <string name="liveYourDash">This is the text body for Live Your Dash.</string>
+    <string name="mayonnaiseJar">This is the text body for Mayonnaise Jar and Two Cups of Coffee.</string>
+    <string name="myPledge">This is the text body for My Pledge.</string>
+    <string name="paidInFull">This is the text body for Paid in Full.</string>
+    <string name="quotes">This is the text body for Quotes.</string>
+    <string name="remember">This is the text body for Remember.</string>
+    <string name="spreadingYourLight">This is the text body for Spreading Your Light: How You Affect Others Daily.</string>
+    <string name="striving">This is the text body for Striving.</string>
+    <string name="successEmerson">This is the text body for Success (Emerson).</string>
+    <string name="successUnknown">This is the text body for Success (Unknown).</string>
+    <string name="bridgeBuilder">This is the text body for The Bridge Builder.</string>
+    <string name="carrotEggCoffeeBean">This is the text body for The Carrot, The Egg, and The Coffee Bean.</string>
+    <string name="emperorsSeed">This is the text body for The Emperor\'s Seed.</string>
+    <string name="generalsPoem">This is the text body for The Generals Poem (Winner\'s Creed).</string>
+    <string name="manInTheArena">This is the text body for The Man In The Arena.</string>
+    <string name="manInTheGlass">This is the text body for The Man in the Glass.</string>
+    <string name="optimistCreed">This is the text body for The Optimist Creed.</string>
+    <string name="paradoxOfOurAge">This is the text body for The Paradox of Our Age.</string>
+    <string name="prayerOfASportsman">This is the text body for The Prayer of a Sportsman.</string>
+    <string name="roadNotTaken">This is the text body for The Road Not Taken.</string>
+    <string name="sheepdogsPoem">This is the text body for The Sheepdog\'s Poem.</string>
+    <string name="starfishStory">This is the text body for The Starfish Story.</string>
+    <string name="thisIsTheBeginning">This is the text body for This Is The Beginning of a New Day.</string>
+    <string name="toRisk">This is the text body for To Risk.</string>
+    <string name="universalPrayer">This is the text body for Universal Prayer.</string>
+    <string name="untitled">This is the text body for Untitled.</string>
+    <string name="vigil">This is the text body for Vigil.</string>
+    <string name="weShallBeFree">This is the text body for We Shall Be Free.</string>
+
+
+
+
+
+
+
+
+</resources>
