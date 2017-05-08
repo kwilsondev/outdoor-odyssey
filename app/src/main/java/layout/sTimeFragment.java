@@ -100,7 +100,7 @@ public class sTimeFragment extends Fragment {
                         break;
 
                     case 12:
-                        sTimeBody.setTextAlignment(View.TEXT_ALIGNMENT_TEXT_START);
+                        sTimeBody.setTextAlignment(View.TEXT_ALIGNMENT_CENTER);
                         sTimeBody.setText(getResources().getString(R.string.ifPoem));
                         break;
 
@@ -120,17 +120,17 @@ public class sTimeFragment extends Fragment {
                         break;
 
                     case 16:
-                        sTimeBody.setTextAlignment(View.TEXT_ALIGNMENT_TEXT_START);
+                        sTimeBody.setTextAlignment(View.TEXT_ALIGNMENT_CENTER);
                         sTimeBody.setText(getResources().getString(R.string.lincolnsFailures));
                         break;
 
                     case 17:
-                        sTimeBody.setTextAlignment(View.TEXT_ALIGNMENT_TEXT_START);
+                        sTimeBody.setTextAlignment(View.TEXT_ALIGNMENT_CENTER);
                         sTimeBody.setText(getResources().getString(R.string.littleEyesBoy));
                         break;
 
                     case 18:
-                        sTimeBody.setTextAlignment(View.TEXT_ALIGNMENT_TEXT_START);
+                        sTimeBody.setTextAlignment(View.TEXT_ALIGNMENT_CENTER);
                         sTimeBody.setText(getResources().getString(R.string.littleEyesGirl));
                         break;
 
@@ -170,7 +170,7 @@ public class sTimeFragment extends Fragment {
                         break;
 
                     case 26:
-                        sTimeBody.setTextAlignment(View.TEXT_ALIGNMENT_TEXT_START);
+                        sTimeBody.setTextAlignment(View.TEXT_ALIGNMENT_CENTER);
                         sTimeBody.setText(getResources().getString(R.string.striving));
                         break;
 
@@ -235,7 +235,7 @@ public class sTimeFragment extends Fragment {
                         break;
 
                     case 39:
-                        sTimeBody.setTextAlignment(View.TEXT_ALIGNMENT_TEXT_START);
+                        sTimeBody.setTextAlignment(View.TEXT_ALIGNMENT_CENTER);
                         sTimeBody.setText(getResources().getString(R.string.sheepdogsPoem));
                         break;
 
@@ -245,7 +245,7 @@ public class sTimeFragment extends Fragment {
                         break;
 
                     case 41:
-                        sTimeBody.setTextAlignment(View.TEXT_ALIGNMENT_TEXT_START);
+                        sTimeBody.setTextAlignment(View.TEXT_ALIGNMENT_CENTER);
                         sTimeBody.setText(getResources().getString(R.string.thisIsTheBeginning));
                         break;
 
@@ -255,21 +255,17 @@ public class sTimeFragment extends Fragment {
                         break;
 
                     case 43:
-                        sTimeBody.setTextAlignment(View.TEXT_ALIGNMENT_TEXT_START);
+                        sTimeBody.setTextAlignment(View.TEXT_ALIGNMENT_CENTER);
                         sTimeBody.setText(getResources().getString(R.string.universalPrayer));
                         break;
 
-                    case 44:
-                        sTimeBody.setTextAlignment(View.TEXT_ALIGNMENT_TEXT_START);
-                        sTimeBody.setText(getResources().getString(R.string.untitled));
-                        break;
 
-                    case 45:
-                        sTimeBody.setTextAlignment(View.TEXT_ALIGNMENT_TEXT_START);
+                    case 44:
+                        sTimeBody.setTextAlignment(View.TEXT_ALIGNMENT_CENTER);
                         sTimeBody.setText(getResources().getString(R.string.vigil));
                         break;
 
-                    case 46:
+                    case 45:
                         sTimeBody.setTextAlignment(View.TEXT_ALIGNMENT_TEXT_START);
                         sTimeBody.setText(getResources().getString(R.string.weShallBeFree));
                         break;
