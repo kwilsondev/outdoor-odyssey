@@ -6,6 +6,12 @@
     <string name="icon">Simple ODO logo icon</string>
     <string name="manual">Mentor Manual</string>
 
+    <string name="mepsInstructions">Enter a number for each section of the MEPS triangle below to manually add a MEPS run. Don\'t forget the man in the glass!</string>
+    <string name="mepsM">M:</string>
+    <string name="mepsE">E:</string>
+    <string name="mepsP">P:</string>
+    <string name="mepsS">S:</string>
+
     <string name="action_settings">Settings</string>
 
     <string-array name="philosophyList">
