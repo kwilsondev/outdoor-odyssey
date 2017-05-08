@@ -3,6 +3,8 @@
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="icon">Simple ODO logo icon</string>
+    <string name="manual">Mentor Manual</string>
 
     <string name="action_settings">Settings</string>
 
