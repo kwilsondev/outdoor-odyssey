@@ -82,7 +82,6 @@
         <item>This Is The Beginning of a New Day</item>
         <item>To Risk</item>
         <item>Universal Prayer</item>
-        <item>Untitled</item>
         <item>Vigil</item>
         <item>We Shall Be Free</item>
 
@@ -90,388 +89,234 @@
 
     <string name="aCreed">
 
-        A Creed To Live By\n
-        Nancye Sims\n\n
-        Don\'t undermine your worth by comparing yourself with others.\n\n
-        It is because we are different that each of us are special. Don\'t set your goals by what other people deem important. Only do what is best for you.\n\n
-        Don\'t take for granted the things closest to your heart. Cling to them as you would your life, for without them life is meaningless.\n\n
-        Don\'t let life slip through your fingers by living in the past or in the future. By living one day at a time you live all days of your life.\n\n
-        Don\'t give up when you still have something to give. Nothing is really over until the moment you stop trying.\n\n
-        Don\'t be afraid to admit that you are less than perfect. It is the fragile thread that binds us to each other.\n\n
-        Don\'t be afraid to encounter risks. It is by taking chances that we learn how to be brave.\n\n
-        Don\'t shut love out of your life by saying it is impossible. The fastest way to lose love is to hold to it tightly, and the best way to keep love is to give it wings.\n\n
-        Don\'t dismiss your dreams. To be without dreams is to be without hope, to be without hope is to be without purpose.\n\n
-        Don\'t run through life so fast that you forget not only where you have been, but also where you are going. Life is not a race, but a journey to be savoured each step of the way.\n\n
+        A Creed To Live By\nNancye Sims\n\nDon\'t undermine your worth by comparing yourself with others.\n\nIt is because we are different that each of us are special. Don\'t set your goals by what other people deem important. Only do what is best for you.\n\nDon\'t take for granted the things closest to your heart. Cling to them as you would your life, for without them life is meaningless.\n\nDon\'t let life slip through your fingers by living in the past or in the future. By living one day at a time you live all days of your life.\n\nDon\'t give up when you still have something to give. Nothing is really over until the moment you stop trying.\n\nDon\'t be afraid to admit that you are less than perfect. It is the fragile thread that binds us to each other.\n\nDon\'t be afraid to encounter risks. It is by taking chances that we learn how to be brave.\n\nDon\'t shut love out of your life by saying it is impossible. The fastest way to lose love is to hold to it tightly, and the best way to keep love is to give it wings.\n\nDon\'t dismiss your dreams. To be without dreams is to be without hope, to be without hope is to be without purpose.\n\nDon\'t run through life so fast that you forget not only where you have been, but also where you are going. Life is not a race, but a journey to be savoured each step of the way.\n\n
 
     </string>
     <string name="aWish">
 
-        A Wish for Leaders\n
-        Earl Reum\n\n
-        I sincerely wish you will have the experience of thinking up a new idea, planning it, organizing it, and following it to completion, and then having it be magnificently successful. I also hope you’ll go through the same process and have some-thing “bomb-out.”\n\n
-        I wish you could know how it feels “to run” with all your heart and lose – horribly.\n\n
-        I wish that you could achieve some great good for mankind, but have nobody know about it except for you.\n\n
-        I wish you could find something so worthwhile that you deem it worthy of investing your life.\n\n
-        I hope you become frustrated and challenged enough to begin to push back the very barriers of your own personal limitations.\n\n
-        I hope you make a stupid, unethical mistakes and get caught redhanded and are big enough to say those magic words “I was Wrong.”\n\n
-        I hope you give so much of yourself that some days you wonder if it’s worth it all.\n\n
-        I wish for you a magnificent obsession that will give you reason for living and purpose and direction and élan and life.\n\n
-        I wish for you the worst kind of criticism for everything you do, because that makes you fight to achieve beyond what you normally would.\n\n
-        I wish for you the experience of leadership.\n\n
+        A Wish for Leaders\nEarl Reum\n\nI sincerely wish you will have the experience of thinking up a new idea, planning it, organizing it, and following it to completion, and then having it be magnificently successful. I also hope you’ll go through the same process and have some-thing “bomb-out.”\n\nI wish you could know how it feels “to run” with all your heart and lose – horribly.\n\nI wish that you could achieve some great good for mankind, but have nobody know about it except for you.\n\nI wish you could find something so worthwhile that you deem it worthy of investing your life.\n\nI hope you become frustrated and challenged enough to begin to push back the very barriers of your own personal limitations.\n\nI hope you make a stupid, unethical mistakes and get caught redhanded and are big enough to say those magic words “I was Wrong.”\n\nI hope you give so much of yourself that some days you wonder if it’s worth it all.\n\nI wish for you a magnificent obsession that will give you reason for living and purpose and direction and élan and life.\n\nI wish for you the worst kind of criticism for everything you do, because that makes you fight to achieve beyond what you normally would.\n\nI wish for you the experience of leadership.\n\n
 
     </string>
     <string name="anyway">
 
-        Anyway\n
-        by Dr. Kent M. Keith\n\n
-        People are illogical, unreasonable, and self-centered.\n
-        Love them anyway.\n\n
-        If you do good, people will accuse you of selfish ulterior motives.\n
-        Do good anyway.\n\n
-        If you are successful, you will win false friends and true enemies.\n
-        Succeed anyway.\n\n
-        The good you do today will be forgotten tomorrow.\n
-        Do good anyway.\n\n
-        Honesty and frankness make you vulnerable.\n
-        Be honest and frank anyway.\n\n
-        The biggest men and women with the biggest ideas can be shot down by the smallest men and women with the smallest minds.\n
-        Think big anyway.\n\n
-        People favor underdogs but follow only top dogs.\n
-        Fight for a few underdogs anyway.\n\n
-        What you spend years building may be destroyed overnight.\n
-        Build anyway.\n\n
-        People really need help but may attack you if you do help them.\n
-        Help people anyway.\n\n
-        Give the world the best you have and you\'ll get kicked in the teeth.\n
-        Give the world the best you have anyway.\n\n
+        Anyway\nby Dr. Kent M. Keith\n\nPeople are illogical, unreasonable, and self-centered.\nLove them anyway.\n\nIf you do good, people will accuse you of selfish ulterior motives.\nDo good anyway.\n\nIf you are successful, you will win false friends and true enemies.\nSucceed anyway.\n\nThe good you do today will be forgotten tomorrow.\nDo good anyway.\n\nHonesty and frankness make you vulnerable.\nBe honest and frank anyway.\n\nThe biggest men and women with the biggest ideas can be shot down by the smallest men and women with the smallest minds.\nThink big anyway.\n\nPeople favor underdogs but follow only top dogs.\nFight for a few underdogs anyway.\n\nWhat you spend years building may be destroyed overnight.\nBuild anyway.\n\nPeople really need help but may attack you if you do help them.\nHelp people anyway.\n\nGive the world the best you have and you\'ll get kicked in the teeth.\nGive the world the best you have anyway.\n\n
 
     </string>
     <string name="attitude">
 
-        Attitude\n
-        Charles Swindoll\n\n
-        The longer I live, the more I realize the impact of attitude on life.\n\n
-        Attitude, to me, is more important than facts. It is more important than the past, than education, than money, than circumstances, than failures, than successes, than what other people think or say or do. It is more important than appearance, giftedness or skill. It will make or break a company... a church... a home.\n\n
-        The remarkable thing is we have a choice every day regarding the attitude we will embrace for that day. We cannot change our past... we cannot change the fact that people will act in a certain way. We cannot change the inevitable. The only thing we can do is play on the one string we have, and that is our attitude... I am convinced that life is 10% what happens to me and 90% how I react to it.\n\n
-        And so it is with you... we are in charge of our attitudes.\n\n
+        Attitude\nCharles Swindoll\n\nThe longer I live, the more I realize the impact of attitude on life.\n\nAttitude, to me, is more important than facts. It is more important than the past, than education, than money, than circumstances, than failures, than successes, than what other people think or say or do. It is more important than appearance, giftedness or skill. It will make or break a company, a church, a home.\n\nThe remarkable thing is we have a choice every day regarding the attitude we will embrace for that day. We cannot change our past. We cannot change the fact that people will act in a certain way. We cannot change the inevitable. The only thing we can do is play on the one string we have, and that is our attitude. I am convinced that life is 10% what happens to me and 90% how I react to it.\n\nAnd so it is with you We are in charge of our attitudes.\n\n
 
     </string>
     <string name="birdByBird">
 
-        Bird by Bird\n
-        Anne Lamott\n\n
-        Thirty years ago my older brother, who was ten years old at the time, was trying to get a report on birds written that he\'d had three months to write. It was due the next day. We were out at our family cabin in Bolinas, and he was at the kitchen table close to tears, surrounded by binder paper and pencils and unopened books on birds, immobilized by the hugeness of the task ahead. Then my father sat down beside him, put his arm around my brother\'s shoulder, and said, \'Bird by bird, buddy. Just take it bird by bird.\'\n\n
+        Bird by Bird\nAnne Lamott\n\nThirty years ago my older brother, who was ten years old at the time, was trying to get a report on birds written that he\'d had three months to write. It was due the next day. We were out at our family cabin in Bolinas, and he was at the kitchen table close to tears, surrounded by binder paper and pencils and unopened books on birds, immobilized by the hugeness of the task ahead. Then my father sat down beside him, put his arm around my brother\'s shoulder, and said, \'Bird by bird, buddy. Just take it bird by bird.\'\n\n
 
     </string>
     <string name="conversations">
 
-        Excerpt from Conversations with God\n
-        Neale Donald Walsh\n\n
-        Fear is the energy which contracts, closes down, draws in, runs, hides, hordes, harms. Love is the energy which expands, opens up, sends out, stays, reveals, shares, heals. Fear wraps our bodies in clothing, love allows us to stand naked. Fear clings to and clutches all that we have, love gives all that we have away. Fear holds, close, love holds dear, fear grasps, love lets go. Fear rankles, love soothes, fear attacks, love amends.\n\n
-        Perfect love is to feeling what perfect white is to color. Many think that white is the absence of color. It is not. It is the inclusion of all color. So, too, is love not the absence of emotion (hatred, anger, lust, jealousy, covetousness), but the summation of all feeling. It is the sum total, the everything.\n\n
-        Harnessing your thoughts, exercising control over them is not as difficult as it might seem. It is all a matter of discipline. A question of intent. The first step is learning to monitor your thoughts; to think about what you are thinking about. When you catch yourself thinking negative thoughts - thoughts that negate your highest idea about a thing - think again! Do this literally. If you think you\'re in a doldrum, in a pickle, and no good can come this, think again. You can train yourself to do this. (Look how well you\'ve trained yourself not to do it!)\n\n
-        A true Master is not the one with the most students, but who creates the most Masters. A true leader is not the one with the most followers, but the one who creates the most leaders.\n\n
+        Excerpt from Conversations with God\nNeale Donald Walsh\n\nFear is the energy which contracts, closes down, draws in, runs, hides, hordes, harms. Love is the energy which expands, opens up, sends out, stays, reveals, shares, heals. Fear wraps our bodies in clothing, love allows us to stand naked. Fear clings to and clutches all that we have, love gives all that we have away. Fear holds, close, love holds dear, fear grasps, love lets go. Fear rankles, love soothes, fear attacks, love amends.\n\nPerfect love is to feeling what perfect white is to color. Many think that white is the absence of color. It is not. It is the inclusion of all color. So, too, is love not the absence of emotion (hatred, anger, lust, jealousy, covetousness), but the summation of all feeling. It is the sum total, the everything.\n\nHarnessing your thoughts, exercising control over them is not as difficult as it might seem. It is all a matter of discipline. A question of intent. The first step is learning to monitor your thoughts; to think about what you are thinking about. When you catch yourself thinking negative thoughts - thoughts that negate your highest idea about a thing - think again! Do this literally. If you think you\'re in a doldrum, in a pickle, and no good can come this, think again. You can train yourself to do this. (Look how well you\'ve trained yourself not to do it!)\n\nA true Master is not the one with the most students, but who creates the most Masters. A true leader is not the one with the most followers, but the one who creates the most leaders.\n\n
 
     </string>
     <string name="desiderata">
 
-        Max Ehrmann\n
-        Desiderata\n\n
-        Go placidly amid the noise and haste,\n
-        and remember what peace there may be in silence.\n\n
-        As far as possible without surrender\n
-        be on good terms with all persons.\n
-        Speak your truth quietly and clearly;\n
-        and listen to others,\n
-        even the dull and the ignorant;\n
-        they too have their story.\n
-        Avoid loud and aggressive persons,\n
-        they are vexations to the spirit.\n\n
-        If you compare yourself with others,\n
-        you may become vain and bitter;\n
-        for always there will be greater and lesser persons than yourself.\n\n
-        Enjoy your achievements as well as your plans.\n
-        Keep interested in your own career, however humble;\n
-        it is a real possession in the changing fortunes of time.\n
-        Exercise caution in your business affairs;\n
-        for the world is full of trickery.\n
-        But let this not blind you to what virtue there is;\n
-        many persons strive for high ideals;\n
-        and everywhere life is full of heroism.\n\n
-        Be yourself.\n
-        Especially, do not feign affection.\n\n
-        Neither be cynical about love;\n
-        for in the face of all aridity and disenchantment\n
-        it is as perennial as the grass.\n\n
-        Take kindly the counsel of the years,\n
-        gracefully surrendering the things of youth.\n
-        Nurture strength of spirit to shield you in sudden misfortune.\n
-        But do not distress yourself with dark imaginings.\n
-        Many fears are born of fatigue and loneliness.\n\n
-        Beyond a wholesome discipline,\n
-        be gentle with yourself.\n
-        You are a child of the universe,\n
-        no less than the trees and the stars;\n
-        you have a right to be here.\n
-        And whether or not it is clear to you,\n
-        no doubt the universe is unfolding as it should.\n\n
-        Therefore be at peace with God,\n
-        whatever you conceive Him to be,\n
-        and whatever your labors and aspirations,\n
-        in the noisy confusion of life keep peace with your soul.\n\n
-        With all its sham, drudgery, and broken dreams,\n
-        it is still a beautiful world.\n
-        Be cheerful.\n
-        Strive to be happy.\n\n
+        Max Ehrmann\nDesiderata\n\nGo placidly amid the noise and haste,\nand remember what peace there may be in silence.\n\nAs far as possible without surrender\nbe on good terms with all persons.\nSpeak your truth quietly and clearly;\nand listen to others,\neven the dull and the ignorant;\nthey too have their story.\nAvoid loud and aggressive persons,\nthey are vexations to the spirit.\n\nIf you compare yourself with others,\nyou may become vain and bitter;\nfor always there will be greater and lesser persons than yourself.\n\nEnjoy your achievements as well as your plans.\nKeep interested in your own career, however humble;\nit is a real possession in the changing fortunes of time.\Exercise caution in your business affairs;\nfor the world is full of trickery.\nBut let this not blind you to what virtue there is;\nmany persons strive for high ideals;\nand everywhere life is full of heroism.\n\nBe yourself.\nEspecially, do not feign affection.\n\nNeither be cynical about love;\nfor in the face of all aridity and disenchantment\nit is as perennial as the grass.\n\nTake kindly the counsel of the years,\ngracefully surrendering the things of youth.\nNurture strength of spirit to shield you in sudden misfortune.\nBut do not distress yourself with dark imaginings.\nMany fears are born of fatigue and loneliness.\n\nBeyond a wholesome discipline,\nbe gentle with yourself.\nYou are a child of the universe,\nno less than the trees and the stars;\nyou have a right to be here.\nAnd whether or not it is clear to you,\nno doubt the universe is unfolding as it should.\n\nTherefore be at peace with God,\nwhatever you conceive Him to be,\nand whatever your labors and aspirations,\nin the noisy confusion of life keep peace with your soul.\n\nWith all its sham, drudgery, and broken dreams,\nit is still a beautiful world.\nBe cheerful.\nStrive to be happy.\n\n
 
     </string>
     <string name="dontWeAll">
 
-        Don’t We All?\n\n\
-        I was parked in front of the mall wiping off my car. I had just come from the car wash and was waiting for my wife to get out of work. Coming my way from across the parking lot was what society would consider a bum.\n\n\
-        From the looks of him, he had no car, no home, no clean clothes, and no money. There are times when you feel generous, but there are other times that you just don’t want to be bothered. This was one of those “don’t want to be bothered time.”\n\n\n
-        “I hope he doesn’t ask me for any money,” I thought. He didn\’t.\n\n\n
-        He came and sat on the curb in front of the bus stop, but he didn\’t look like he could have enough money to even ride the bus. After a few minutes he spoke. “That’s a very pretty car,” he said. He was ragged, but he had an air of dignity around him. His scraggy blond beard kept more than his face warm. I said, “Thanks,” and continued wiping of my car.\n\n\n
-        He sat there quietly as I worked. The expected plea for money never came. As the silence between us widened something inside said, “Ask him if he needs help.” I was sure he would say “yes”, but I held true to the inner voice. “Do you need any help?” I asked. He answered in three simple, but profound words that I shall never forget.\n\n\n
-        We often look for wisdom in great men and women. We expect it from those of higher learning and accomplishments. I expected nothing, but an outstretched grimy hand. He spoke the three words that shook me. “Don’t we all?” he said.\n\n\n
-        I was feeling high and mighty, successful and important, above a bum in the street, until those three words hit me like a twelve gauge shotgun.\n\n\n
-        Don’t we all?\n\n\n
-        I needed help. Maybe not for bus fare or a place to sleep, but I needed help. I reached in my wallet and gave him not only enough for bus fare, but enough to get a warm mean and shelter for the day. Those three little words still ring true. No matter how much you have, no matter how much you have accomplished, you need help, too. No matter how little you have, no matter how loaded you are with problems, even without money or a place to sleep, you can give help.\n\n\n
-        Even if it’s just a compliment, you can give that. You never know when you may see that appears to have it all. They are waiting on you to give them what they don’t have. A different perspective on life, a glimpse at something beautiful, a respite from daily chaos, that only you through a torn world can see.\n\n\n
+        Don’t We All?\n\nI was parked in front of the mall wiping off my car. I had just come from the car wash and was waiting for my wife to get out of work. Coming my way from across the parking lot was what society would consider a bum.\n\n\From the looks of him, he had no car, no home, no clean clothes, and no money. There are times when you feel generous, but there are other times that you just don’t want to be bothered. This was one of those “don’t want to be bothered time.”\n\n“I hope he doesn’t ask me for any money,” I thought. He didn\’t.\n\nHe came and sat on the curb in front of the bus stop, but he didn\’t look like he could have enough money to even ride the bus. After a few minutes he spoke. “That’s a very pretty car,” he said. He was ragged, but he had an air of dignity around him. His scraggy blond beard kept more than his face warm. I said, “Thanks,” and continued wiping of my car.\n\nHe sat there quietly as I worked. The expected plea for money never came. As the silence between us widened something inside said, “Ask him if he needs help.” I was sure he would say “yes”, but I held true to the inner voice. “Do you need any help?” I asked. He answered in three simple, but profound words that I shall never forget.\n\nWe often look for wisdom in great men and women. We expect it from those of higher learning and accomplishments. I expected nothing, but an outstretched grimy hand. He spoke the three words that shook me. “Don’t we all?” he said.\n\nI was feeling high and mighty, successful and important, above a bum in the street, until those three words hit me like a twelve gauge shotgun.\n\nDon’t we all?\n\nI needed help. Maybe not for bus fare or a place to sleep, but I needed help. I reached in my wallet and gave him not only enough for bus fare, but enough to get a warm mean and shelter for the day. Those three little words still ring true. No matter how much you have, no matter how much you have accomplished, you need help, too. No matter how little you have, no matter how loaded you are with problems, even without money or a place to sleep, you can give help.\n\nEven if it’s just a compliment, you can give that. You never know when you may see that appears to have it all. They are waiting on you to give them what they don’t have. A different perspective on life, a glimpse at something beautiful, a respite from daily chaos, that only you through a torn world can see.\n\n
 
     </string>
     <string name="faithTrustLove">
 
-        Faith, Trust, and Love Equals Devotion\n\n\
-        *Faith is a higher being. Faith is one’s self,\n\
-        faith in the mission. Faith is what gives you hope.\n\n\
-        +\n\n\
-        *Trust in others. Trust is built between each other and \n\
-        is an ongoing process. We must give trust, but\n\
-        not blindly; it must have a dash of common sense\n\
-        mixed in. Trust gives way to love.\n\n\
-                +\n\n\
-        *Love is essential. Love is like the air; we need it\n\
-        to live. Love so powerful is when you put someone\n\
-        or something before yourself and your only desire\n\
-        is to care for them and keep them safe.\n\n\
-                =\n\n\
-        *When and only when you have all three can you have\n\
-        devotion. Devotion to a cause, to a mission, to a\n\
-        purpose, to a goal or a dream. Devotion is\n\
-        passion. Devotion can hold a team together, carry\n\
-        you through a difficult time and help you weather\n\
-        a storm. Devotion in something you believe in\n\
-        builds character within yourself.\n\n\
+        Faith, Trust, and Love Equals Devotion\n\n*Faith is a higher being. Faith is one’s self,\nfaith in the mission. Faith is what gives you hope.\n\n+\n\n*Trust in others. Trust is built between each other and \nis an ongoing process. We must give trust, but\nnot blindly; it must have a dash of common sense\nmixed in. Trust gives way to love.\n\n+\n\n*Love is essential. Love is like the air; we need it\nto live. Love so powerful is when you put someone\nor something before yourself and your only desire\\is to care for them and keep them safe.\n\n=\n\n*When and only when you have all three can you have\ndevotion. Devotion to a cause, to a mission, to a\npurpose, to a goal or a dream. Devotion is\npassion. Devotion can hold a team together, carry\nyou through a difficult time and help you weather\na storm. Devotion in something you believe in\nbuilds character within yourself.\n\n
 
     </string>
     <string name="footprints">
 
- 	Footprints\n\
- 	Margaret Fishback Powers\n\n\
+        Footprints\nMargaret Fishback Powers\n\nI was walking along the beach with my Lord.\nAcross the dark sky flashed scenes from my life.\nFor each scene, I noticed two sets\nof footprints in the sand,\none belonging to me\nand one to my Lord.\n\nWhen the last scene of my life shot before me\nI looked back at the footprints in the sand.\nThere was only one set of footprints.\nI realized that this was at the lowest\nand the saddest times of my life.\nThis always bothered me\nand I questioned the Lord\nabout my dilemma.\n\n“Lord, you told me when I decided to follow You,\nYou would walk and talk with me all the way.\nBut I’m aware that during the most troublesome\ntimes of my life there is only one set of footprints.\nI just don’t understand why, when I needed You most,\nYou leave me.”\n\nHe  whispered, “My precious child,\nI love you and will never leave you\nnever, ever, during your trials and testings.\nWhen you saw only one set of footprints\nit was then that I carried you.\n\n
 
-	I was walking along the beach with my Lord.\n\
-	Across the dark sky flashed scenes from my life.\n\
-	For each scene, I noticed two sets\n\
-	of footprints in the sand,\n\
-	one belonging to me\n\
-	and one to my Lord.\n\n\
-
-	When the last scene of my life shot before me\n\
-	I looked back at the footprints in the sand.\n\
-	There was only one set of footprints.\n\
-	I realized that this was at the lowest\n\
-	and the saddest times of my life.\n\
-	This always bothered me\n\
-	and I questioned the Lord\n\
-	about my dilemma.\n\n\
-
-	“Lord, you told me when I decided to follow You,\n\
-	You would walk and talk with me all the way.\n\
-	But I’m aware that during the most troublesome\n\
-	times of my life there is only one set of footprints.\n\
-	I just don’t understand why, when I needed You most,\n\
-	You leave me.”\n\n\
-
-	He  whispered, “My precious child,\n\
-	I love you and will never leave you\n\
-	never, ever, during your trials and testings.\n\
-	When you saw only one set of footprints\n\
-	it was then that I carried you.\n\n\
-
- </string>
+    </string>
     <string name="godsPromise">
 
-    God’s Promise\n\n\
-
-	God didn’t promise days without pain,\n\
-	Laughter without sorrow, or sun without rain.\n\n\
-
-	But, He did promise strength for the day,\n\
-	Comfort for the tears, and light for the way.\n\n\
-
-	And for those who believe in His kingdom of love,\n\
-	He answers their faith\n\
-	With His peace from above\n\n\
+        God’s Promise\n\nGod didn\’t promise days without pain,\nLaughter without sorrow, or sun without rain.\n\nBut, He did promise strength for the day,\nComfort for the tears, and light for the way.\n\nAnd for those who believe in His kingdom of love,\nHe answers their faith\nWith His peace from above\n\n
 
     </string>
     <string name="howToMake">
 
-    How to Make a Beautiful Life\n\n\
-
-	Love yourself\n\
-	Make peace with who you are\n\
-	And where you are at this moment.\n\n\
-
-	Listen to you heart.\n\
-	IF you can’t hear what it’s saying,\n\
-	In this noisy world, make time for yourself.\n\
-
-	Enjoy your company.\n\
-	Let your mind wander among the stars.\n\n\
-
-	Try. Take chances. Makes Mistakes.\n\n\
-
-	Life can be messy and confusing at times,\n\
-	But, it’s also full of surprises.\n\
-	The next rock in your path might be a stepping stone.\n\n\
-
-	Be happy.\n\
-	When you don’t have what you want, want what you have.\n\
-	Make do.\n\
-	That’s a well-kept secret of contentment.\n\n\
-
-	There aren’t any shortcuts to tomorrow.\n\
-	You have to make your own way.\n\
-	To know where you’re going is only part of it.\n\
-	You need to know where you’ve been too.\n\
-	And if you ever get lost, don’t worry.\n\
-	The people who love you will find you.\n\
-	Count on it.\n\n\
-
-	Life isn’t days and years.\n\
-	It’s what we do the time\n\
-	And all the goodness and grace that’s inside of you.\n\
-	Make a beautiful life…\n\
-	The kind of life you deserve.\n\n\
+        How to Make a Beautiful Life\n\nLove yourself\nMake peace with who you are\nAnd where you are at this moment.\n\nListen to you heart.\nIF you can’t hear what it’s saying,\nIn this noisy world, make time for yourself.\nEnjoy your company.\nLet your mind wander among the stars.\n\nTry. Take chances. Makes Mistakes.\n\nLife can be messy and confusing at times,\nBut, it’s also full of surprises.\nThe next rock in your path might be a stepping stone.\n\nBe happy.\nWhen you don’t have what you want, want what you have.\nMake do.\nThat’s a well-kept secret of contentment.\n\nThere aren\’t any shortcuts to tomorrow.\nYou have to make your own way.\nTo know where you’re going is only part of it.\nYou need to know where you’ve been too.\nAnd if you ever get lost, don’t worry.\nThe people who love you will find you.\nCount on it.\n\nLife isn’t days and years.\nIt’s what we do the time\nAnd all the goodness and grace that’s inside of you.\nMake a beautiful life…\nThe kind of life you deserve.\n\n
 
     </string>
     <string name="ifPoem">
 
-    If\n\
-    Rudyard Kipling\n\n\
-
-	If you can keep your head when all about you\n\
-	Are losing theirs and blaming it on you;\n\
-	If you can trust yourself when all men doubt you,\n\
-	But make allowance for their doubting too;\n\
-	If you can wait and not be tired by waiting,\n\
-	Or, being lied about, don’t deal in lies,\n\
-	Or, being hated, don’t give way to hating,\n\
-	And yet don’t look too good, not talk too wise;\n\n\
-
-	If you can dream – and not make dreams your master;\n\
-	If you can think – and not make thoughts your aim;\n\
-	If you can meet with triumph and disaster\n\
-	And treat those two imposters just the same;\n\
-	If you can bear to hear the truth you’ve spoken\n\
-	Twisted by knaves to make a trap for fools,\n\
-	Or watch the things you gave your life to broken,\n\
-	And stoop and build ‘em up with wornout tools;\n\n\
-
-	If you can make one heap of all your winnings\n\
-	And risk it on one turn of pitch-and-toss,\n\
-	And lose, and start again at your beginnings\n\
-	And never breath a word about your loss;\n\
-	If you can force your heart and nerve and sinew\n\
-	To serve your turn long after they are gone,\n\
-	And so hold on when there is nothing in you\n\
-	Except the Will which says to them: “Hold on”;\n\n\
-
-	If you can talk with crowds and keep your virtue,\n\
-	Or walk with kings – nor lose the common touch;\n\
-	If neither foes nor loving friends can hurt you;\n\
-	If all men count with you, but none too much;\n\
-	If you can fill the unforgiving minute\n\
-	With sixty seconds’ worth of distance run –\n\
-	Yours is the Earth and everything that’s in it,\n\
-	And – which is more – you’ll be a Man my son!\n\n\
+        If\nRudyard Kipling\n\nIf you can keep your head when all about you\nAre losing theirs and blaming it on you;\nIf you can trust yourself when all men doubt you,\nBut make allowance for their doubting too;\nIf you can wait and not be tired by waiting,\nOr, being lied about, don’t deal in lies,\nOr, being hated, don’t give way to hating,\nAnd yet don’t look too good, not talk too wise;\n\nIf you can dream – and not make dreams your master;\nIf you can think – and not make thoughts your aim;\nIf you can meet with triumph and disaster\nAnd treat those two imposters just the same;\nIf you can bear to hear the truth you’ve spoken\nTwisted by knaves to make a trap for fools,\nOr watch the things you gave your life to broken,\nAnd stoop and build ‘em up with wornout tools;\n\nIf you can make one heap of all your winnings\nAnd risk it on one turn of pitch-and-toss,\nAnd lose, and start again at your beginnings\nAnd never breath a word about your loss;\nIf you can force your heart and nerve and sinew\nTo serve your turn long after they are gone,\nAnd so hold on when there is nothing in you\nExcept the Will which says to them: “Hold on”;\n\nIf you can talk with crowds and keep your virtue,\nOr walk with kings – nor lose the common touch;\nIf neither foes nor loving friends can hurt you;\nIf all men count with you, but none too much;\nIf you can fill the unforgiving minute\nWith sixty seconds’ worth of distance run –\nYours is the Earth and everything that’s in it,\nAnd – which is more – you’ll be a Man my son!\n\n
 
     </string>
     <string name="ifEverThereWas">
 
-    	If Ever There Was A Time\n\n\
-		If ever there was a time to dare, to make a difference, to embark on something worth doing, it is now. Not for any grand cause, necessarily--but fro something that tugs at your heart, something that’s your aspiration, something that’s your dream. You owe it to yourself to make your days here count. Have fun. Dig deep. Stretch. Dream big. Know, though, that things worth doing seldom come easy.\n\n\
-		There will be good days. And there will be bad days. There will be times when you want to turn around, pack it up, and call it quits. Those times tell you that you are pushing yourself, that you are not afraid to learn by trying.\n\n\
-		Persist.\n\n\
-		Because with an idea, determination, and the right tools, you can do great things. Let your instincts, your intellect, and your heart guide you.\n\n\
-		Trust.\n\n\
-		Believe in the incredible power of the human mind. Of doing something that makes a difference. Of working hard. Of laughing and hoping. Of lazy afternoons. Of lasting friends. Of all the things that will cross your path this year. The start of something new brings the hope of something great. Anything is possible. There is only one you. And you will pass this way only once.\n\n\
-		Do it right.\n\n\
+        If Ever There Was A Time\n\nIf ever there was a time to dare, to make a difference, to embark on something worth doing, it is now. Not for any grand cause, necessarily-but fro something that tugs at your heart, something that’s your aspiration, something that’s your dream. You owe it to yourself to make your days here count. Have fun. Dig deep. Stretch. Dream big. Know, though, that things worth doing seldom come easy.\n\nThere will be good days. And there will be bad days. There will be times when you want to turn around, pack it up, and call it quits. Those times tell you that you are pushing yourself, that you are not afraid to learn by trying.\n\nPersist.\n\nBecause with an idea, determination, and the right tools, you can do great things. Let your instincts, your intellect, and your heart guide you.\n\nTrust.\n\nBelieve in the incredible power of the human mind. Of doing something that makes a difference. Of working hard. Of laughing and hoping. Of lazy afternoons. Of lasting friends. Of all the things that will cross your path this year. The start of something new brings the hope of something great. Anything is possible. There is only one you. And you will pass this way only once.\n\nDo it right.\n\n
 
     </string>
     <string name="ifIWereAnyBetter">
 
-    If I Were Any Better, I would Be Twins\n\n\
-	Michael is the kind of guy you love to hate. He is always in a good mood and always has something positive to say.\n\
-	When someone would ask him how he was doing, he would reply, “If I were any better, I would be twins!”\n\
-	He was a natural motivator.\n\
-	If an employee was having a bad day, Michael was there telling the employee how to look on the positive side of the situation.\n\
-	Seeing this style really made me curious, so one day I wenet up to Michael and asked him, “I don’t get it! YOU can’t be a positive person all of the time. How do you do it?”\n\
-	Michael replied, “Each morning I wake up and say to myself, you have two choices today.\n\
-	You can choose to be in a good mood or …you can choose to be in a bad mood. I choose to be in a good mood.\n\
-	Each time something bad happens, I can choose to be a victim or… I can choose to learn from it. I choose to learn from it.\n\
-	Every time someone comes to me complaining, I can choose to accept their complaining or…I can point out the positive side of life. I choose the positive side of life.\n\
-	“Yeah, right, it’s not that easy,” I protested.\n\
-	“Yes, it is,” Michael said. “Life is all about choices. When you cut away all the junk, every situation is a choice. You choose how you react to situations. You choose how people affect your mood. You choose to be in a good mood or bad mood. The bottom line: It’s your choice how you live you life.”\n\
-	I reflected on what Michael said. Soon hereafter, I left the Tower Industry to start my own business. We lost touch, but I often thought about him when I made a choice about life instead of reacting to it.\n\
-	Several years later, I heard that Michael was involved in a serious accident, falling some 60 feet from a communications tower.\n\
-	After 18 hours of surgery and weeks of intensive care, Michael was released from the hospital with rods placed in his back.\n\
-	I saw Michael about six months after the accident. When I asked him how he was, he replied, “If I were any better, I’d be twins. Wanna see my scars?”\n\
-	I declined to see his wounds, but I did ask him what had gone through his mind as the accident took place.\n\
-	“The first thing that went through my mind was the well-being of my soon to be born daughter,” Michael replied. “Then, as I lay on the ground, I remembered that I had two choices: I could choose to live or…I could choose to die. I chose to live.”\n\
-	“Weren’t you scared? Did you lose consciousness?” I asked.\n\
-	Michael continued, “…the paramedics were great. They kept telling me I was going to be fine. But when they wheeled me into the ER and I saw the expressions on the faces of the doctors and nurses, I got really scared. IN their eyes, I read “he’s a dead man”. I knew I needed to take action.”\n\
-	“What did you do?” I asked.\n\
-	“Well, there was a big burly nurse shouting questions at me,” said Michael. “She asked if I was allergic to anything.\n\
-	““Yes, I replied.” The doctors and nurses stopped working as they waited for my reply. I took a deep breath and yelled, “Gravity.””\n\
-	Over their laughter, I told them, “I am choosing to live. Operate on me as if I am alive, not dead.”\n\
-	Michael lived, thanks to the skills of his doctors, but also because of his amazing attitude. I learned from him that every day we have the choice to live fully.\n\
-	Attitude, after all, is everything.\n\n\
+        If I Were Any Better, I would Be Twins\n\nMichael is the kind of guy you love to hate. He is always in a good mood and always has something positive to say.\nWhen someone would ask him how he was doing, he would reply, “If I were any better, I would be twins!”\nHe was a natural motivator.\nIf an employee was having a bad day, Michael was there telling the employee how to look on the positive side of the situation.\nSeeing this style really made me curious, so one day I wenet up to Michael and asked him, “I don’t get it! YOU can’t be a positive person all of the time. How do you do it?”\nMichael replied, “Each morning I wake up and say to myself, you have two choices today.\nYou can choose to be in a good mood or …you can choose to be in a bad mood. I choose to be in a good mood.\nEach time something bad happens, I can choose to be a victim or… I can choose to learn from it. I choose to learn from it.\nEvery time someone comes to me complaining, I can choose to accept their complaining or…I can point out the positive side of life. I choose the positive side of life.\n“Yeah, right, it’s not that easy,” I protested.\n“Yes, it is,” Michael said. “Life is all about choices. When you cut away all the junk, every situation is a choice. You choose how you react to situations. You choose how people affect your mood. You choose to be in a good mood or bad mood. The bottom line: It’s your choice how you live you life.”\nI reflected on what Michael said. Soon hereafter, I left the Tower Industry to start my own business. We lost touch, but I often thought about him when I made a choice about life instead of reacting to it.\nSeveral years later, I heard that Michael was involved in a serious accident, falling some 60 feet from a communications tower.\nAfter 18 hours of surgery and weeks of intensive care, Michael was released from the hospital with rods placed in his back.\nI saw Michael about six months after the accident. When I asked him how he was, he replied, “If I were any better, I’d be twins. Want to see my scars?”\nI declined to see his wounds, but I did ask him what had gone through his mind as the accident took place.\n“The first thing that went through my mind was the well-being of my soon to be born daughter,” Michael replied. “Then, as I lay on the ground, I remembered that I had two choices: I could choose to live or…I could choose to die. I chose to live.”\n“Weren’t you scared? Did you lose consciousness?” I asked.\nMichael continued, “…the paramedics were great. They kept telling me I was going to be fine. But when they wheeled me into the ER and I saw the expressions on the faces of the doctors and nurses, I got really scared. IN their eyes, I read “he’s a dead man”. I knew I needed to take action.”\n“What did you do?” I asked.\n“Well, there was a big burly nurse shouting questions at me,” said Michael. “She asked if I was allergic to anything.\n““Yes, I replied.” The doctors and nurses stopped working as they waited for my reply. I took a deep breath and yelled, “Gravity.””\nOver their laughter, I told them, “I am choosing to live. Operate on me as if I am alive, not dead.”\nMichael lived, thanks to the skills of his doctors, but also because of his amazing attitude. I learned from him that every day we have the choice to live fully.\nAttitude, after all, is everything.\n\n
 
     </string>
-    <string name="justToKeepYouGoing">This is the text body for Just to Keep You Going.</string>
-    <string name="lincolnsFailures">This is the text body for Lincoln\'s "Failures".</string>
-    <string name="littleEyesBoy">This is the text body for Little Eyes Are Watching You (Boy).</string>
-    <string name="littleEyesGirl">This is the text body for Little Eyes Are Watching You (Girl).</string>
-    <string name="liveYourDash">This is the text body for Live Your Dash.</string>
-    <string name="mayonnaiseJar">This is the text body for Mayonnaise Jar and Two Cups of Coffee.</string>
-    <string name="myPledge">This is the text body for My Pledge.</string>
-    <string name="paidInFull">This is the text body for Paid in Full.</string>
-    <string name="quotes">This is the text body for Quotes.</string>
-    <string name="remember">This is the text body for Remember.</string>
-    <string name="spreadingYourLight">This is the text body for Spreading Your Light: How You Affect Others Daily.</string>
-    <string name="striving">This is the text body for Striving.</string>
-    <string name="successEmerson">This is the text body for Success (Emerson).</string>
-    <string name="successUnknown">This is the text body for Success (Unknown).</string>
-    <string name="bridgeBuilder">This is the text body for The Bridge Builder.</string>
-    <string name="carrotEggCoffeeBean">This is the text body for The Carrot, The Egg, and The Coffee Bean.</string>
-    <string name="emperorsSeed">This is the text body for The Emperor\'s Seed.</string>
-    <string name="generalsPoem">This is the text body for The Generals Poem (Winner\'s Creed).</string>
-    <string name="manInTheArena">This is the text body for The Man In The Arena.</string>
-    <string name="manInTheGlass">This is the text body for The Man in the Glass.</string>
-    <string name="optimistCreed">This is the text body for The Optimist Creed.</string>
-    <string name="paradoxOfOurAge">This is the text body for The Paradox of Our Age.</string>
-    <string name="prayerOfASportsman">This is the text body for The Prayer of a Sportsman.</string>
-    <string name="roadNotTaken">This is the text body for The Road Not Taken.</string>
-    <string name="sheepdogsPoem">This is the text body for The Sheepdog\'s Poem.</string>
-    <string name="starfishStory">This is the text body for The Starfish Story.</string>
-    <string name="thisIsTheBeginning">This is the text body for This Is The Beginning of a New Day.</string>
-    <string name="toRisk">This is the text body for To Risk.</string>
-    <string name="universalPrayer">This is the text body for Universal Prayer.</string>
-    <string name="untitled">This is the text body for Untitled.</string>
-    <string name="vigil">This is the text body for Vigil.</string>
-    <string name="weShallBeFree">This is the text body for We Shall Be Free.</string>
+    <string name="justToKeepYouGoing">
+
+        Just To Keep You Going…\n\nMake it a point to do something everyday that you would\nnormally not do. This the golden rule for acquiring the \nhabit of doing your duty without pain.\n\nLike a welcome summer rain, humor may suddenly cleanse\nand cool the earth, the air, and you.\n\nSuccess is a ladder that cannot be climbed with your\nhands in your pockets.\n\nA diamond is a piece of coal that stuck to its job.\n\nIt’s the mind that tells you when to give up.\n\nThe miracle isn’t that I finished. It’s that I had the\ncourage to start.\n\nEven if you are on the right track, you will get run over\nif you just sit there.\n\nDo not go where the path may lead, go instead where\nthere is no path and leave a trail.\n\n
+
+    </string>
+    <string name="lincolnsFailures">
+
+        Lincoln "Failures"\n\nLost job in 1832.\nDefeated for state legislature in 1832.\nFailed in business in 1833.\nElected to state legislature in 1834.\nSweetheart died in 1835.\nHad nervous breakdown in 1836.\nDefeated for Speaker in 1838.\nDefeated for nomination for Congress in 1843.\nElected to Congress in 1846.\nLost renomination in 1848.\nRejected for land officer in 1849.\nDefeated for U.S. Senate in 1854.\nDefeated for nomination for Vice President in 1856.\nAgain defeated for U.S. Senate in 1858.\nElected President in 1860.\n\n
+
+    </string>
+    <string name="littleEyesBoy">
+
+        Little Eyes Are Watching You\nEdgar Guest\n\nThere are little eye upon you\nand they’re watching night and day.\nThere are little ears that quickly\ntake in every word you say.\nThere are little hands all eager\nto do anything you do;\nAnd a little boy who’s dreaming\nof the day he’ll be like you.\nYou’re the little fellow’s idol,\nyou’re the wisest of the wise.\nIn his little mind about you\nno suspicions ever rise.\nHe believes in you devoutly,\nholds all you say and do;\nHe will say and do, in your way\nwhen he’s grown up just like you.\nThere’s a wide-eyed little fellow\nwho believes you’re always right;\nand his eyes are always opened,\nand he watches day and night.\nYou are setting an example\nevery day in all you do;\nFor the little boy who’s waiting\nto grow up to be like you.\n\n
+
+    </string>
+    <string name="littleEyesGirl">
+
+        Little Eyes Are Watching You\nEdgar Guest\n\nThere are little eye upon you\nand they’re watching night and day.\nThere are little ears that quickly \ntake in every word you say.\nThere are little hands all eager\nto do anything you do;\nAnd a little girl who’s dreaming\nof the day she’ll be like you.\nYou’re the little girl’s idol,\nyou’re the wisest of the wise.\nIn her little mind about you\nno suspicions ever rise.\nShe believes in you devoutly,\nholds all you say and do;\nShe will say and do, in your way\nwhen she’s grown up just like you.\nThere’s a wide-eyed little girl\nwho believes you’re always right;\nand her eyes are always opened,\nand she watches day and night.\nYou are setting an example\nevery day in all you do;\nFor the little girl who’s waiting\nto grow up to be like you\n\n
+
+    </string>
+    <string name="liveYourDash">
+
+        Live Your Dash\nLinda Ellis\n\nI read of a man who stood to speak\nat the funeral of a friend.\nHe referred to the dates on her tombstone\nfrom the beginning … to the end.\n\nHe noted that first came the date of her birth\nand spoke of the following date with tears.\nBut he said what mattered most of all\nwas the dash between those years.\n\nFor that dash represents all the time\nthat she spent alive on earth.\nAnd now only those who loved her\nknow what that little line is worth.\n\nFor it matter not how much we own;\nthe  cars … the house … the cash.\nWhat matters is how we live and love …\nand how we spend our dash.\n\nSo think about this long and hard;\nare there things you’d like to change?\nFor you never know how much time is left\nthat can still be rearranged.\n\nIf we could just slow down enough\nto consider what’ true and real …\nAnd always try to understand\nthe way other people feel.\n\nAnd be less quick to anger,\nand show appreciation more.\nAnd love the people in our lives …\nlike we’ve never loved before.\n\nIf we treat each other with respect,\nand  more often wear a smile …\nRemembering that this special dash\nmight  only last a little while.\n\nSo, when your eulogy’s being read …\nWith your life’s actions to rehash …\nWould you be proud of the things they say …\nAbout how you spent your dash?\n\n
+
+    </string>
+    <string name="mayonnaiseJar">
+
+        Mayonnaise Jar and Two Cups of Coffee\n\nWhen things in your life seem almost too much to handle, when twenty-fours in a day are not enough, remember the mayonnaise jar and two cups of coffee.\n\nA professor stood before his philosophy class and had some items in front of him. When the class began, wordlessly, he picked up a very large and empty mayonnaise jar and proceeded to fill it with golf balls. He then asked the students if the jar was full. They agreed that is was.\n\nThe professor then picked up a box of pebbles and poured them into the jar. He shook the jar lightly. The pebbles rolled into the open areas between the golf balls. He then asked the students again if the jar was full. They agreed it was.\n\nThe professor then picked up the box of sand and poured it into the jar. Of course the sand filled up everything else. He asked once more if the jar was full. The students responded with a unanimous…”yes”.\n\nThe professor then produced two cups of coffee from under the table and poured the entire contents into the jar, effectively filling the empty space between the sand. The students laughed.\n\n“Now,” said the professor, as the laughter subsided,. “I want you to recognize that this jar represents your life. The golf balls are the important things—your family, your children, your health, your friends and your favorite passions—things that if everything else was lost and only they remained, your life would still be full.\n\n“The pebbles are the other things that matter; like your job, your house, and your car.\n\n“The sand is everything else; the small stuff. IF you put the sand into the jar first,” he continued, “there is no room for the pebbles or the golf balls. The same goes for life. IF you spend all your time and energy on the small stuff, you will never have room for the things that are important to you.\n\n“So, pay attention to the things that are critical to your happiness. Play with your children. Take time to get medical checkups. Take your spouse out to dinner. Play another 18. There will always be time to clean the house and fix the disposal. Take care of the golf balls first, the things that really matter. Set your priorities, the is just sand.”\n\nOne of the students raised her hand and inquired what the coffee represented. The professor smiled. “I’m glad you asked; it just goes to show you that no matter how full your life may, seem, there’s always room for a couple of cups of coffee with a friend.”\n\n
+
+    </string>
+    <string name="myPledge">
+
+        My Pledge\nMaria Shriver\n-Excerpt from Just Who Will You be?\n\n1. I pledge to “show up” in my life, not as an imitation of anyone else.\n\n2. I pledge to avoid using the word “just” to describe myself. I won’t say, “I’m just a mother,” “I’m just a student,” or “I’m just an ordinary person.”\n\n3. I pledge to give myself ten minutes of silence and stillness every day to get in touch with my heart and hear my own voice.\n\n4. I pledge to use my voice to connect my dreams to my actions.\n\n5. I pledge to use my voice to empower myself and others.\n\n6. I pledge to serve my community at least once a year in a way that will benefit other people.\n\n7. I pledge to ask myself, “Who am I? What do I believe in? What am grateful for? What do I want my life to stand for?”\n\n8. I pledge to sit down and write my own mission statement.\n\n9. I pledge to live my own legacy.\n\n10. And, I pledge to pass it on.\n\n
+
+    </string>
+    <string name="paidInFull">
+
+        Paid in Full\n\nA young man was getting ready to graduate from college. For many months he had admired a beautiful sports car in a dealer’s showroom, and knowing his father could well afford it, he told him that was all he wanted.\n\nAs Graduation Day approached, the young man awaited signs that his father had purchased the car. Finally, on the morning of his graduation, his father called him in to his private study. His father told him how proud he was to have such a fine son, and told him how much he loved him. He handed his son a beautifully wrapped gift box. Curious, and somewhat disappointed, the young man opened the box and found a lovely, leather-bound Bible, with the young man’s name embossed in gold.\n\nAngry, he shouted at his father and said, “With all your money, you give me a Bible?” and stormed out of the house.\n\nMany years passed and the young man has become very successful in business. He had a beautiful home and a wonderful family, but he realized that his father was getting old, and thought perhaps he should go see him. He has not seen him since that graduation day. Before he could make the arrangements, he received a telegram telling him his father had passed away, and willed all of his possessions to his son. He needed to come home immediately to take care of things.\n\nWhen he arrived at his father’s house, sudden sadness and regret filled his heart. He begun to search through his father’s important papers and saw the still gift-wrapped Bible, just as he had left it years ago. With tears, he opened the Bible and began to turn through the pages. His father has carefully underlined the verse, Matt 7:11, “And if ye, being evil, know how to give good gifts to your children, how much more shall you Heavenly Father with is in Heaven, give to those who ask Him?”\n\nAs he read the words, a car key dropped from the back of the Bible. It had a tag with the dealer’s name, the same dealer who had the sports car he wanted. On the tag was the date of his graduation, and the words PAID IN FULL.\n\nHow many times do we miss God’s blessings because we can’t see past our own desires?\n\n
+
+    </string>
+    <string name="quotes">
+
+        Quotes\n\n“I have learned that people will forget what you said and forget what you did, but they will never forget how you made them feel.”\n\t\t\t\t\t\t\t\t\t\t\t\t-Maya Angelou\n\n“Spirit is fueled by the influence of the people and things around you.”\n\t\t\t\t\t\t\t\t\t\t\t\t-Scott Roberts\n\n“Treat people as if they were what they ought to be, and you help them to become what they are capable of being.”\n\t\t\t\t\t\t\t\t-Johann Wolfgang von Goethe\n\n“”Play hard, smart, and together!”\n\t\t\t\t\t\t\t\t\t\t\t\t-Lauren Petrosky\n\n“Today I am inspired to go beyond the boundaries of my weaknesses, to challenge the walls of my limitations, and believe in endless possibilities.”\n\t\t\t\t\t\t\t\t\t\t\t\t-Unknown\n\n“You really can change the world if you care enough.”\n\t\t\t\t\t\t\t\t\t\t\t\t-Marion Wright Edelman\n\n“Go where the energy makes your heart palpitate and your spirit sing, for there you will find fulfillment.”\n\t\t\t\t\t\t\t\t\t\t\t\t-Unknown\n\n“You have the power to make happiness a way of life instead of an occasional experience.”\n\t\t\t\t\t\t\t\t\t\t\t\t-Unknown\n\n“Live in harmony with nature seasons awaken us to spring’s renewal, fall’s cozy slowness, winter’s savory rest, and summer’s exuberance. Thus we are reminded to honor each season’s energies for the wisdom they hold.”\n\t\t\t\t\t\t\t\t\t\t\t\t-Unknown\n\n
+
+    </string>
+    <string name="remember">
+
+        Remember\nDr. Bob Moorehead\n\nRemember, spend some time with your loved ones, because they are not going to be around forever\n\nRemember to say a kind word to someone who looks up to you in awe, because that little person soon will grow up and leave your side.\n\nRemember to give a warm hug to the one next to you, because that is the only treasure you can give with your heart and it doesn\’t cost a cent.\n\nRemember to say “I love you” to your partner and your loved ones, but most of all mean it. A kiss and an embrace will mend hurt when it comes from deep inside you.\n\nRemember to hold hands and cherish the moment for someday that person will not be there again.\n\n\Give time to love, give time to speak, and give time to share the precious thoughts in your mind.\n\nAnd, always remember: Life is not measured by the number of breaths we take, but by the moments that take our breath away.\n\n
+
+    </string>
+    <string name="spreadingYourLight">
+
+        Spreading Your Light: How You Affect Others Daily\n\nAs the pace and fullness of modern life serve to isolate us from one another, the contact we do share becomes vastly more significant. We unconsciously absorb each other’s energy, adopting the temperament of those with whom we share close quarters, and find ourselves changed after the briefest encounters. Everything we do or say has the potential to affect not only the individuals we live, work, and play with but also those we’ve just met. Though we may never know the impact we have had or the scope of our influence, accepting and understanding that our attitudes and choices will affect others can help us remember to conduct ourselves with grace at all times. When we seek always to be friendly, helpful, and responsive, we effortlessly create an atmosphere around ourselves that is both uplifting and inspiring.\n\nMost people rarely give thought to the effect they have had or will have on others. When we take a few moments to contemplate how our individual modes of being affect the people we spend time with each day, we come one step closer to seeing ourselves through the eyes of others. By asking ourselves whether those we encounter walk away feeling appreciated, respected, and liked, we can heighten our awareness of the effect we ultimately have. Something as simple as a smile given freely can temporarily brighten a person’s entire world. Our value-driven conduct may inspire others to consider whether their own lives are reflective of their values. A word of advice can help others see life in an entirely new fashion. And small gestures of kindness can even prove to those embittered by the world that goodness still exists. BY simply being ourselves, we influence other’s lives both subtle and life-altering ways.\n\nTo ensure that the effect we have is positive, we must strive to stay true to ourselves while realizing that it is the demeanor we project and not the quality of our wondrous inner landscapes that people see. Thus, as we interact with others, how we behave can be as important as who we are. If we project our passion for life, our warmth, and our tolerance in our facial features, voice, and choice of words, every person who enters our circle of influence will leave our presence feeling at peace with themselves and with us You never know whose life you are affecting, big or small. Try to remember this as you go out into the world each day.\n\n
+
+    </string>
+    <string name="striving">
+
+        Striving\nRobert William Service\n\nStriving is life, yet life is striving;\nI fight to live, yet live to fight;\nThe vital urge is in my driving,\nYet I must drive with all my might:\nEach day a battle, and the fray\nStoutly renewed the coming day.\n\nI am myself – yet when I strive\nI build a self that’s truer, higher;\nI keep my bit of God alive\nAnd forgive me in heroic fire:\nWhat if my goal I never gain –\nBetter to toil then to attain.\n\nIt is not what I do or make,\nIT is the travail of my trying;\nThe aim, the effort and the ache\nIs in the end my glorifying:\nThough triumph I may never see,\nThe will to win is victory.\n\nStriving is strength: with all that’s in me\nI will not falter in the fray;\nAnd though no shining crown it win me,\nI’ll fight unto my latest day:\nStrive on! – and though I win no place,\nUphold the spirit of the race.\n\nBehold yon peaks that mock my climbing….\nI peer from out the dusty plain;\nDark falls, the mission bells are chiming\nAs on to starry heights I strain;\nDespite the night up, up I plod\nTo gain the golden meads of God.\n\n
+
+    </string>
+    <string name="successEmerson">
+
+        SUCCESS\nRALPH WALDO EMERSON\n\nTO LAUGH OFTEN AND MUCH;\nTO WIN THE RESPECT OF INTELLIGENT\nPEOPLE AND THE AFFECTION OF\nCHILDREN;\n\nTO EARN THE APPRECIATION OF HONEST\nCRITICS AND ENDURE THE BETRAYAL\nOF FALSE FRIENDS;\n\nTO APPRECIATE BEAUT, TO FIND THE BEST\nIN OTHERS;\n\nTO LEAVE THE WORLD A BIT BETTER,\nWHETHER BY A HEALTHY CHILD, A\nGARDEN PATCH, OR A REDEEMED\nSOCIAL CONDITION;\n\nTO KNOW EVEN ONE LIFE HAS BREATHED\nEASIER BECAUSE YOU HAVE LIVED.\nTHIS IS TO HAVE SUCCEEDED.\n\n
+
+    </string>
+    <string name="successUnknown">
+
+        Success\n\nSuccess is speaking words of praise,\nIn cheering other people’s ways,\nIn doing just the best you can,\nWith every task and every plan,\nIt’s silence when your speech would hurt,\nPoliteness when your neighbor’s curt,\nIt’s deafness when the scandal flows,\nAnd sympathy with others’ woes.\nIt’s loyalty when duty calls,\nIt’s courage when the hours are long,\nIt’s found in laughter and in song.\nIt’s in the silent times of prayer,\nIn happiness and in despair.\nIn all of life and nothing less,\nWe find the thing we call success.\n\n
+
+    </string>
+    <string name="bridgeBuilder">
+
+        The Bridge Builder\nWill Allen Dromgoole\nAn old man, going a lone highway,\nCame, at the evening, cold and gray,\nTo a chasm, vast, and deep, and wide,\n…Through which was flowing a sullen tide.\nThe old man crossed in the twilight dim;\nThe sullen stream had no fear for him;\nNut he turned, when safe on the other side,\nAnd built a bridge to span the tide.\n“Old ma,” said a fellow pilgrim, near,\n“You are wasting you strength with building here;\n“ Your journey will end with the ending day;\nYou never again will pass this way;\nYou’ve crossed the chasm, deep and wide –\n Why build you this bridge at the evening tide?”\nThe builder lifted his old gray head:\n“Good friend, in the path I have come,” he said,\n“There followeth after me today,\nA youth, whose feet must pass this way.\nThis chasm, that has been naught to me,\nTo that fair-haired youth may a pitfall be.\nHe, too, must cross in the twilight dim;\nGood friend, I am building this bridge for him.”\n
+
+    </string>
+    <string name="carrotEggCoffeeBean">
+
+        The Carrot, The Egg, and The Coffee Bean\n        Mary Sullivan\n\nA young woman went to her mother and told her about her life and how things were so hard for her. She did not know how she was going to make it and wanted to give up. She was tired of fighting and struggling. It seems as if as soon as one problem was solved, a new one arose. Her mother took her to the kitchen.\n\nThe mother filled three pots with water.\n\nIn the first, she placed carrots.\nIn the second she placed eggs.\nAnd the last she placed ground coffee beans.\nShe let them sit and boil without saying a word. About twenty minutes later, she turned off the burners.\n\nShe fished the carrots out and placed them in a bowl. She pulled the eggs out and placed them in a bowl. Then she ladled the coffee out and placed it in a bowl.\n\nTurning to her daughter, she said, “tell me what you see.”\n\nCarrots, eggs, and coffee,” she replied. (You know the tone of voice.)\n\nShe brought her closer and asked her to feel the carrots. She did, and noted that they felt soft.\n\nShe then asked her to take an egg and break it. After pulling off the shell, she observed the hard-boiled egg inside.\n\nFinally, she asked her to sip the coffee. The daughter smiled as she tasted its rich aroma.\n\nThe daughter then asked, “So what’s the point, mother?” (Remember the tone of voice.)\n\nHer mother explained that each of these objects had faced the same adversity – boiling water – but each reacted differently.\n\nThe carrot went in strong, hard, and unrelenting. However, after being subjected to the boiling water, it softened and became weak.\n\nThe egg had been fragile. Its thin outer shell had protected its liquid center. But, after sitting through the boiling water, its insides had become hardened.\n\nThe ground coffee beans were unique, however. After they were in the boiling water…they had changed the water.\n\n“Which are you?” she asked her daughter. “when adversity knocks on your door, how do you respond? Are you a carrot, an egg, or a coffee bean?”\n\nThink of this: Which am I?\n\nAm I the carrot that seems strong, but with pain and adversity, do I wilt and become soft and lose my strength?\n\nAm I the egg that starts with a malleable heart, but changed with the heat?\n\nDid I have a fluid spirit, but after a death, a breakup, a financial hardship, or some other trial, have I become hardened and stiff? Does my outer shell look the same, but on the inside am I bitter and tough with a stiff spirit and a hardened heart?\n\nOr am I like the coffee bean? The bean actually changes the hot water – the very circumstances that bring the pain. When the water gets hot, it releases the fragrance and flavor of the bean. IF you are like the bean, when things are at their worst, you get better and change the situation around you instead of letting it change you.\n\nWhen the hours are the darkest and trials are their greatest, do you elevate to another level?\n\nHow do you handle Adversity?\n\nARE YOU A CARROT, AN EGG, PR A COFFEE BEAN?\n\n
+
+    </string>
+    <string name="emperorsSeed">
+
+        The Emperor’s Seed\n\nOnce there was an emperor in the Far East who was growing old and knew it was coming tome to choose his successor. Instead of choosing one of his assistants or one of his own children, he decided to do something different.\n\nHe called all the young people in the kingdom together one day. He said, “It has come time for me to step down and to choose the next emperor. I have decided to choose one of you.” The kids were shocked! But the emperor continued. “I am going to give each one of you a seed today. One seed. It is a very special seed. I want you to go home, plant the seed, water it and come back here only one year from today with what you have grown from this one seed. I will then judge the plants that you bring to me, and the one I choose will be the nest emperor of the kingdom!”\n\nThere was one boy named Ling who was there that day and he, like the others, received a seed. He went home and excitedly told his mother the whole story. She helped him get a pot and some planting soil, and he planted the seed and watered it carefully. Every day he would water it and watch to see if it had grown.\n\nAfter about three weeks, some of the other youths began to talk about their seeds and the plants that were beginning to grow. Ling kept going home and checking his seed, but nothing ever grew. Three weeks, four weeks, five weeks went by. Still nothing.\n\nBy now others were talking about their plants, but Ling didn’t have a plant, and he felt like a failure. Six months went by, still nothing in Ling\’s pot. He just knew he had killed his seed. Everyone else had trees and tall plants, but he had nothing. Ling didn’t say anything to his friends, however. He just kept waiting for his seed to grow.\n\nA year finally went by and all the youths of the kingdom brought their plants to the emperor for inspection. Ling told his mother that he wasn’t going to take an empty pot. But she encouraged him to go, and to take his pot, and to be honest about what happened. Ling felt sick to his stomach, but he knew his mother was right. He took his empty pot to the palace.\n\nWhen Ling arrive, he was amazed at the variety of plants grown by all the other youths. They were beautiful, in all shapes and sizes. Ling put his empty pot on the floor and many of the other kids laughed at him. A few felt sorry for him and just said, “Hey nice try.”\n\nWhen the emperor arrived, her surveyed the room and greeted the young people. Ling just tried to hide in the back. “My, what great plants, trees and flowers you have grown,” said the emperor. “Today, one of you will be appointed the next emperor!”\n\nAll of a sudden, the emperor spotted Ling at the back of the room with his empty pot. He ordered his guards to bring him to the front. Long was terrified. “The emperor knows I’m a failure! Maybe he will have me killed!”\n\nWhen Ling got to the front, the Emperor asked his name. “My name is Ling,” he replied. All the kids were laughing and making fun of him. The emperor asked everyone to quiet down. He looked at Ling, and then announced to the crowd, “Behold your new emperor! His name is Ling!” Ling couldn\’t believe it. Ling couldn\’t even grow his seed. How could he be the new emperor?\n\nThen the emperor said, “One year ago today, I gave everyone here a seed. I told you to take the seed, plant it, water it, and bring it back to me today. But I gave you all boiled seeds which would not grow. All of you, except Ling, have brought me trees and plants and flowers. When you found that the seed would not grow, you substituted another seed for the one I gave you. Ling was the only one with the courage and honesty to bring me a pot with my seed in it. Therefore, he is the one who will be the new emperor!”\n\n
+
+    </string>
+    <string name="generalsPoem">
+
+        The General’s Poem (The Winner’s Creed)\nIf you think you’re beaten, you are.\nIf you think you dare not, you don’t.\nIf you like to win, but think you can’t,\nIt’s almost certain you won’t.\nIf you think you’ll lose, you’re lost,\nFor out in the world we find,\nSuccess begins with a person’s will,\nIt’s all in the state of mind.\nIf you think you’re outclassed, you are.\nYou’ve got to think high to rise.\nYou’ve got to b sure of yourself before,\nYou can ever win a prize.\nLife’s battles don’t always go,\nTo the stronger or swifter one,\nBut sooner or later, the one who wins,\nIs the one who thinks he or she can.\n
+
+    </string>
+    <string name="manInTheArena">
+
+        The Man In The Arena\nTheodore Roosevelt\nExcerpt from the speech “Citizenship In A Republic”\n\nIt is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly; who errs, who comes short again and again, because there is no effort without error and shortcoming; but who does actually strive to do the deeds; who know great enthusiasms, the great devotions; who spends himself in a worthy cause; who at the best knows in the end the triumph of high achievement, and who at the worst, if the fails, at least fails while daring greatly, so that his place shall never  be with those cold and timid souls who neither know victory nor defeat.\n\n
+
+    </string>
+    <string name="manInTheGlass">
+
+        The Man In The Glass\nPeter Dale Wimbrow, Sr.\n\nWhen you get what you want in your struggle for self\nAnd the world makes you king for a day\nJust go to the mirror and look at yourself\nAnd see what that man has to say.\n\nFor it isn’t your father, or mother, or wife\nWhose judgment upon you must pass\nThe fellow whose verdict counts most in your life\nIs the one staring back from the glass.\n\nHe’s the fellow to please – never mind all the rest\nFor he’s with you, clear to the end\nAnd you’ve passed your most difficult, dangerous test\nIf the man in the glass is your friend\n\nYou may fool the whole world down the pathway of years\nAnd get pats on the back as you pass\nBut your final reward will be heartache and tears\nIf you’ve cheated he man in the glass.\n\n
+
+    </string>
+    <string name="optimistCreed">
+
+        The Optimist Creed\n\nPromise Yourself…\n\nTo be strong that nothing can disturb your peace of mind.\n\nTo talk health, happiness and prosperity to every person you meet.\n\nTO make all your friends feel that there is something in them.\n\nTo look at the sunny side of everything and make your optimism come true.\n\nTo think only of the best, to work only for the best, and to expect only the best.\n\nTo be just as enthusiastic about the success of others as you are about your own.\n\nTo forget the mistakes of the past and press on to the greater achievements of the future.\n\nTo wear a cheerful countenance at all times and give every living creature you meet a smile.\n\nTo give so much time to the improvement of yourself that you have not time to criticize others.\n\n
+
+    </string>
+    <string name="paradoxOfOurAge">
+
+        The Paradox of Our Age\n\nThe paradox of our time in history is that we have taller buildings, but shorter tempers; wider freeways, but narrower viewpoints; we spend more, but have less; we buy more, but enjoy less.\n\nWe have bigger houses and smaller families; more conveniences, but less time; we have more degrees, but less sense; more knowledge, but less judgment; more experts, yet more problems; more medicine, but less wellness.\n\nWe drink too much, smoke too much, spend too recklessly, laugh too little, drive too fast, get angry too quickly, stay up too late, get up too tired, read too little, watch TV too much, and pray too seldom.\n\nWe have multiplied our possessions, but reduced our values. We talk too much, love too seldom, and hate too often. We’ve leaned how to make a living, but not a life; we’ve added years to life, not life to years.\n\nWe’ve been all the way to the moon and back, but have trouble crossing the street to meet the new neighbor. We’ve conquered outer space, but not inner space; we’ve done larger things, but not better things.\n\nWe’ve cleaned up the air, but polluted the soul; we’ve split the atom, but not our prejudice.\n\nWe write more, but learn less; we plan more, but accomplish less. We’ve learned to rush, but not to wait; we have higher incomes, but lower morals; we have more food, but less appeasement; we built more computers to hold more information to produce more copies than ever, but have less communication; we’ve become long on quantity, but short on quality.\n\nThese are the time of fast foods and slow digestion; tall men, and small character; steep profits, and shallow relationships. These are the times of world peace, but domestic warfare; more leisure, but less fun; more kinds of food, but less nutrition.\n\nThese are days of two incomes, but more divorce; of fancier houses, but broken homes. These are days of quick trips, disposable diapers, throw away morality, one-night stands, overweight bodies, and pills that do everything from cheer to quiet to kill.\n\nIt is time when there is much in the show window and nothing in the stockroom; a time when technology has brought this letter to you, and a time when you can choose either to make a difference, or just hit delete\n\n
+
+    </string>
+    <string name="prayerOfASportsman">
+
+        The Prayer of a Sportsman\n\nDear Lord, in the battle that goes on through life, I ask for a field that is fair, a chance that is equal to all in the strife, the courage to strive and to dare. If I should win, let it be by the code, with my faith and my honor held high. But if I should lose, let me stand by the road and cheer as the winners go by.
+
+    </string>
+    <string name="roadNotTaken">
+
+       The Road Not Taken\nRobert Frost\n\nTwo road diverged in a yellow wood,\nAnd sorry I could not travel both\nAnd be one traveler, long I stood\nAnd looked down one as far as I could\nTo where it bent in the undergrowth.\n\nThen took the other, as just as fair,\nAnd having perhaps the better claim,\nBecause it was grassy and wanted wear;\nThough as for that the passing there\nHad worn them really about the same.\n\nAnd both the morning equally lay\nIn leaves no step had trodden black.\nOh, I kept the first for another day!\nYet knowing how way leads on to way,\nI doubted if I should ever come back.\n\nI shall be telling this with a sign\nSomewhere ages and ages hence:\nTwo roads diverged in a wood, and I -\nI took the one less traveled by,\nAnd that has made all the difference.\n\n
+
+    </string>
+    <string name="sheepdogsPoem">
+
+        The SHEEPDOG’S POEM\n\nMost humans truly are like sheep\nWanting nothing more than PEACE to keep\nTo graze, grow fat and raise their young,\nSweet taste of clover on the tongue.\nTheir lives serene upon life’s farm,\nThey sense no threat nor fear no harm.\nOn verdant meadows, they forage free\nWith naught  to flee.\nThey pay their sheepdogs little heed\nFor there is no threat; there is no need.\n\nTo the flock, Sheepdog’s are mysteries,\nRoaming watchful round the peripheries.\nThese fang-toothed creatures bark, they roar\nWith the  fetid reek of the carnivore,\nToo like the wolf of legends told,\nTo be amongst our docile fold.\nWho needs sheepdogs? What good are they?\nThey have no use, not in this day.\nLock them away, out of our sight\nWe have no need of their fierce might.\n\nBut sudden in their midst a BEAST\nHas come to kill, has come to feast\nTHE wolves attack; they give no warning\nUpon that calm and kill with frenzied glee\nTheir passive helpless enemy\nwho had no clue the wolves were there\nfar roaming from their eastern lair.\nThen from the carnage, from the rout,\nComes the cry, “TURN THE SHEEPDOGS OUT!”\n\nThus is our nature but too our plight\nTo keep our dogs on leashes tight\nAnd live a life of illusive bliss\nHearing not the beast, his growl, his hiss.\nUntil he has us by the throat,\nwe pay no heed; we take no note.\nNot until he strikes us at our core\nWill we unleash the dogs of war\nOnly having felt the wolf pack’s wrath\nDo we lose the sheepdogs on its path.\nThe wolves will learn what we’ve shown before:\nWe love our sheep,\nWE DOGS OF WAR.\n\n
+
+    </string>
+    <string name="starfishStory">
+
+        The Starfish Story\nLoren Eisley (adapted from The Star Thrower)\n\nOnce upon a time, there was a wise man who used to go to the ocean to do his writing. He had a habit of walking on the beach before he began his work.\n\nOne day, as he walked along the shore, he looked down the beach and saw a human figure moving like a dancer. He smiled to himself at the thought of someone who would dance to the day, and so, he walked faster to catch up.\n\nAs he got close, he noticed that the figure was that of a young man, and that what he was doing was not dancing at all. The young man was reaching down to the shore, picking up small objects, and throwing them into the ocean.\n\nHe came closer still and called out, “Good morning! May I ask what it is that you are doing?”\n\nThe young man paused, looked up, and replied, “Throwing starfish into the ocean.”\n\n“I must ask, then, why are you throwing starfish into the ocean?” asked the somewhat startled wise man.\n\nTo this, the young man replied, “The sun is up and the tide is going out. If I don’t throw them in, they’ll die.”\n\nUpon hearing this, the wise man commented, “But, young man, do you not realize that there are miles and miles of beach and there are starfish all along every mile? You can’t possibly make a difference!”\n\nAt this, the young man bent down, picked up yet another starfish, and threw it into the ocean. As it met the water, he said, “I made a difference to that one!”\n\n
+
+    </string>
+    <string name="thisIsTheBeginning">
+
+        This Is The Beginning of a New Day\n\nThis is the beginning of a new day.\nGod has given me this day to use as I will.\nI can waste it or use it for good,\nBut what I do today is important\nBecause I am exchanging a day of my life for it.\nWhen tomorrow comes, this day will be gone forever,\nLeaving in its place something that I have traded for it.\nI want it to be gain and not loss; good and not evil;\nSuccess and not failure; in order that I shall not\nRegret the price I have paid for it.\n
+
+    </string>
+    <string name="toRisk">
+
+        To Risk\nWilliam Arthur Ward\n\nTo laugh is to risk appearing a fool,\n\nTo weep is to risk appearing sentimental.\n\nTo reach out to another is to risk involvement,\n\nTo expose feelings is to risk exposing your true self.\n\nTo place your ideas and dreams before a crowd is to risk their loss.\n\nTo love is to risk not being loved in return,\n\nTo live is to risk dying,\n\nTo hope is to risk despair,\n\nTo try is to risk failure.\n\nBut risks must be taken because the greatest hazard in life is to risk nothing.\n\nThe person who risks nothing, does nothing, has nothing, is nothing.\n\nHe may avoid suffering and sorrow.\n\nBut he cannot learn, feel, change, grow or live.\n\nChained by his servitude he is a slave who has forfeited all freedom.\n\nOnly a person who risks is free.\n\nThe pessimist complains about the wind;\n\nThe optimist expects it to change;\n\nAnd thee realist adjusts the sails.\n\n
+
+    </string>
+    <string name="universalPrayer">
+
+       Universal Prayer\nPope Clement X\n\nLord, I believe in you: increase my faith.\nI trust in you: strengthen my trust.\nI love you: let me love you more and more.\nI am sorry for my sins: deepen my sorrow.\n\nI worship you as my first beginning,\nI long for you as my last end,\nI praise you as my constant helper,\nAnd call on you as my loving protector.\n\nGuide me by your wisdom,\nCorrect me with your justice,\nComfort me with your mercy,\nProtect me with your power.\n\nI offer you, Lord, my thoughts: to be fixed on you;\nMy words: to have you for their theme;\nMy actions: to reflect my love for you;\nMy sufferings: to be endured for your greater glory.\n\nI want to do what you ask of me:\nIn the way you ask,\nFor as long as you ask,\nBecause you ask it.\n\nLord, enlighten my understanding,\nStrengthen my will,\nPurify my heart,\nAnd make me holy.\n\nHelp me to repent of my past sins\nAnd to resist temptation in the future.\nHelp me to rise above my human weaknesses\nAnd to grow stronger as a Christian.\n\nLet me love you, my Lord and my God,\nAnd see myself as I really am:\nA pilgrim on this world,\nA Christian called to respect and love\nAll whose live I touch,\nThose under my authority,\nMy friends and my enemies.\n\nHelp me to conquer anger with gentleness,\nGreed by generosity,\nApathy by fervor.\nHelp me to forget myself\nAnd reach out toward others.\n\nMake me prudent in planning,\nCourageous in taking risks.\nMake me patient in suffering,\nUnassuming in prosperity.\n\nKeep me Lord, attentive at prayer,\nTemperate in food and drink,\nDiligent in my work,\nFirm in my good intentions.\n\nLet my conscience be clear,\nMy conduct without fault,\nMy speech blameless,\nMy life well-ordered.\nPut me in guard against my human weaknesses.\nLet cherish your love for me,\nKeep your law,\nAnd come at last to your salvation.\n\nTeach me to realize that this world is passing,\nThat my true future is the happiness of heaven,\nThat life on earth is short,\nAnd the life to come eternal.\n\nHelp me to prepare for death\nWith a proper fear of judgment,\nBut a greater trust in your goodness.\nLead me safely through death\nTo the endless joy of heaven.\n\nGrant this through Christ our Lord. Amen.\n\n
+
+    </string>
+    <string name="vigil">
+
+        Vigil\nCharles Dolish\n\nWith an evening fire to give me warmth\nI stand Vigil on a distant hilltop\nLooking upon the nightly starlit sky\nWondering what makes the stars shine so bright\nAnd the moon glow as though t it was an angel\n\nI recollect as my fire burns; as it shoots its embers\nInto the dark sky\nWhile the moon still illuminates its beauty down to earth\nAnd nocturnal stars twinkle their heart out\nAs though its their last shining moment\nTo sparkle among the heavens\n\nWith a quick glance to the sky\nI make a wish, wondering if it will come true\nAs a shooting star zips across the nightly sky\nAnd into the depths of space\nWhere many more wishes will be made\n\nNow my fire is dying\nAs fleeting time passes by\nAnd I still gaze upon the illuminating sky\nThinking what it is like to be a star\nTo twinkle with the heavens\n\nMy fire is not just a few burning coals\nGiving off what light it can\nAnd I still gaze at the sky with delight\nKnowing the sun will rise again\nWith a new day to begin\n\n
+
+    </string>
+    <string name="weShallBeFree">
+
+        We Shall be Free\nBy Garth Brooks\n\nThis ain\'t comin\' from no prophet\n Just an ordinary man\nWhen I close my eyes I see\n The way this world shall be\n When we all walk hand in hand\n\n When the last child cries for a crust of bread\n When the last man dies for just words that he said\n When there\'s shelter over the poorest head\n We shall be free\n\n When the last thing we notice is the color of skin\n And the first thing we look for is the beauty within\n When the skies and the oceans are clean again\n Then we shall be free\n\n When we're free to love anyone we choose\n When this world's big enough for all different views\n When we all can worship from our own kind of pew\n Then we shall be free\n\n And when money talks for the very last time\n And nobody walks a step behind\n When there's only one race and that's mankind\n Then we shall be free\n\n
+
+    </string>
 
 
 
