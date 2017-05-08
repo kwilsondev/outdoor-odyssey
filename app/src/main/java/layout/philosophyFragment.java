@@ -72,22 +72,34 @@ public class philosophyFragment extends Fragment {
                         break;
 
                     case 7 :
-                        philosophyBody.setText(getResources().getString(R.string.MEPS));
+                        philosophyBody.setText(getResources().getString(R.string.leadershipPrinciples));
                         break;
 
                     case 8 :
-                        philosophyBody.setText(getResources().getString(R.string.microwave));
+                        philosophyBody.setText(getResources().getString(R.string.leadershipTraits));
                         break;
 
                     case 9 :
-                        philosophyBody.setText(getResources().getString(R.string.potatoHead));
+                        philosophyBody.setText(getResources().getString(R.string.MEPS));
                         break;
 
                     case 10 :
-                        philosophyBody.setText(getResources().getString(R.string.TLS));
+                        philosophyBody.setText(getResources().getString(R.string.microwave));
                         break;
 
                     case 11 :
+                        philosophyBody.setText(getResources().getString(R.string.potatoHead));
+                        break;
+
+                    case 12 :
+                        philosophyBody.setText(getResources().getString(R.string.smeac));
+                        break;
+
+                    case 13 :
+                        philosophyBody.setText(getResources().getString(R.string.TLS));
+                        break;
+
+                    case 14 :
                         philosophyBody.setText(getResources().getString(R.string.wizard));
                         break;
 
