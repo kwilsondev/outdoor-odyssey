@@ -41,7 +41,9 @@
                 android:layout_alignBottom="@+id/mText"
                 android:layout_marginStart="18dp"
                 android:ems="10"
-                android:inputType="number" />
+                android:inputType="number"
+                android:textColor="#c60f0f"
+                android:textAppearance="@android:style/TextAppearance.DeviceDefault.Medium.Inverse" />
 
             <TextView
                 android:id="@+id/eText"
@@ -57,11 +59,13 @@
                 android:id="@+id/eEdit"
                 android:layout_width="25dp"
                 android:layout_height="wrap_content"
-                android:ems="10"
-                android:inputType="number"
                 android:layout_alignBaseline="@+id/eText"
                 android:layout_alignBottom="@+id/eText"
-                android:layout_toEndOf="@+id/eText" />
+                android:layout_toEndOf="@+id/eText"
+                android:ems="10"
+                android:inputType="number"
+                android:textColor="#c60f0f"
+                android:textAppearance="@android:style/TextAppearance.DeviceDefault.Medium.Inverse" />
 
             <TextView
                 android:id="@+id/pText"
@@ -77,11 +81,13 @@
                 android:id="@+id/pEdit"
                 android:layout_width="25dp"
                 android:layout_height="wrap_content"
-                android:ems="10"
-                android:inputType="number"
                 android:layout_alignBaseline="@+id/pText"
                 android:layout_alignBottom="@+id/pText"
-                android:layout_toEndOf="@+id/pText" />
+                android:layout_toEndOf="@+id/pText"
+                android:ems="10"
+                android:inputType="number"
+                android:textColor="#c60f0f"
+                android:textAppearance="@android:style/TextAppearance.DeviceDefault.Medium.Inverse" />
 
             <TextView
                 android:id="@+id/sText"
@@ -97,11 +103,13 @@
                 android:id="@+id/sEdit"
                 android:layout_width="25dp"
                 android:layout_height="wrap_content"
-                android:ems="10"
-                android:inputType="number"
                 android:layout_alignBaseline="@+id/sText"
                 android:layout_alignBottom="@+id/sText"
-                android:layout_toEndOf="@+id/sText" />
+                android:layout_toEndOf="@+id/sText"
+                android:ems="10"
+                android:inputType="number"
+                android:textColor="#c60f0f"
+                android:textAppearance="@android:style/TextAppearance.DeviceDefault.Medium.Inverse" />
 
             <Button
                 android:id="@+id/button2"
@@ -110,8 +118,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginStart="38dp"
                 android:layout_toEndOf="@+id/sEdit"
-                android:elevation="5dp"
-                android:text="Log MEPS Run" />
+                android:text="@string/mepsButton" />
 
 
         </RelativeLayout>
@@ -124,18 +131,34 @@
         android:layout_height="0dp"
         android:layout_weight=".25"
         app:srcCompat="@drawable/meps"
+        android:contentDescription="@string/triangleDescription"
         tools:layout_editor_absoluteX="27dp"
         tools:layout_editor_absoluteY="65dp" />
 
 
     <RelativeLayout
-        android:layout_width="match_parent"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content">
 
         <TextView
-            android:id="@+id/textView3"
+            android:id="@+id/averageDescription"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="TextView" />
+            android:paddingBottom="10dp"
+            android:text="@string/averageDescription"
+            android:textAppearance="@android:style/TextAppearance.DeviceDefault.Medium" />
+
+        <TextView
+            android:id="@+id/averageView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@+id/averageDescription"
+            android:layout_alignBottom="@+id/averageDescription"
+            android:layout_marginStart="16dp"
+            android:layout_toEndOf="@+id/averageDescription"
+            android:textColor="#c60f0f"
+            android:text="9999"
+            android:textAppearance="@android:style/TextAppearance.DeviceDefault.Large" />
     </RelativeLayout>
+
 </LinearLayout>

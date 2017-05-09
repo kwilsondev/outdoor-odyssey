@@ -6,11 +6,14 @@
     <string name="icon">Simple ODO logo icon</string>
     <string name="manual">Mentor Manual</string>
 
-    <string name="mepsInstructions">Enter a number for each section of the MEPS triangle below to manually add a MEPS run. Don\'t forget the man in the glass!</string>
+    <string name="mepsInstructions">Enter a number for each section of the MEPS triangle below to manually add a MEPS run. An average of all meps runs will be kept at the bottom of the screen. Don\'t forget the man in the glass!</string>
     <string name="mepsM">M:</string>
     <string name="mepsE">E:</string>
     <string name="mepsP">P:</string>
     <string name="mepsS">S:</string>
+    <string name="averageDescription">Average Meps Run Score:</string>
+    <string name="mepsButton">Log MEPS Run</string>
+    <string name="triangleDescription">MEPS triangle image</string>
 
     <string name="action_settings">Settings</string>
 
