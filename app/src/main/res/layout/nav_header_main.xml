@@ -14,7 +14,7 @@
     android:weightSum="1">
 
     <ImageView
-        android:layout_width="121dp"
+        android:layout_width="107dp"
         android:layout_height="100dp"
         android:paddingTop="16dp"
         android:scaleType="fitXY"
